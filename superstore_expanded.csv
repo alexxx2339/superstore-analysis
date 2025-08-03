@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,Country,City,State,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2016-126225,7/17/2017,7/19/2017,Second Class,ID-28289,Home Office,United States,New York,Illinois,West,Technology,Accessories,41.46,2,0.1,-0.26
+CA-2016-688508,2/11/2017,2/17/2017,Same Day,ID-38893,Corporate,United States,Phoenix,New York,West,Furniture,Accessories,346.85,3,0.1,88.31
+CA-2018-207175,7/8/2016,7/12/2016,Standard Class,ID-57052,Corporate,United States,Phoenix,New York,West,Technology,Accessories,540.87,7,0,65.35
+CA-2018-705397,1/28/2017,2/3/2017,Standard Class,ID-16006,Home Office,United States,Los Angeles,New York,West,Furniture,Chairs,386.32,8,0.2,-10.8
+CA-2018-319684,10/4/2019,10/7/2019,Standard Class,ID-89840,Home Office,United States,Los Angeles,Illinois,East,Furniture,Accessories,385.66,9,0.1,60.34
+CA-2016-340174,3/6/2016,3/13/2016,First Class,ID-62581,Corporate,United States,New York,Texas,Central,Furniture,Accessories,401.68,8,0.1,2.15
+CA-2017-881177,2/23/2019,2/28/2019,First Class,ID-86622,Corporate,United States,Phoenix,Florida,Central,Furniture,Phones,514.43,2,0,125.75
+CA-2017-757924,11/23/2016,11/30/2016,Same Day,ID-88172,Consumer,United States,Houston,Florida,South,Technology,Binders,971.37,1,0,167.74
+CA-2018-905934,8/5/2019,8/8/2019,Standard Class,ID-48469,Corporate,United States,Los Angeles,Florida,West,Technology,Binders,972.17,3,0,241.3
+CA-2018-982554,8/1/2019,8/6/2019,Second Class,ID-30032,Corporate,United States,Los Angeles,Illinois,West,Technology,Binders,493.72,2,0.2,99.33
+CA-2018-351083,4/28/2016,4/30/2016,Standard Class,ID-21226,Home Office,United States,Houston,California,East,Furniture,Accessories,947.38,3,0.2,84.18
+CA-2019-322086,1/9/2019,1/16/2019,Second Class,ID-50857,Corporate,United States,Chicago,Florida,South,Furniture,Phones,232.45,6,0,31.46
+CA-2017-717024,3/27/2017,3/28/2017,Standard Class,ID-92719,Consumer,United States,Los Angeles,California,West,Office Supplies,Chairs,519.01,5,0.3,-5.2
+CA-2017-858490,3/15/2019,3/20/2019,Same Day,ID-41850,Corporate,United States,Houston,Texas,West,Furniture,Accessories,360.75,7,0.3,62
+CA-2016-806073,8/31/2019,9/6/2019,Standard Class,ID-17944,Corporate,United States,Chicago,California,East,Furniture,Phones,540.92,3,0.3,-10.07
+CA-2019-361941,6/3/2016,6/7/2016,Standard Class,ID-16630,Home Office,United States,Phoenix,California,West,Furniture,Phones,412.35,8,0.1,91.24
+CA-2016-272634,2/15/2018,2/16/2018,Same Day,ID-44760,Corporate,United States,Chicago,Florida,South,Furniture,Phones,303.74,1,0,60.5
+CA-2016-152578,4/11/2019,4/15/2019,Second Class,ID-17455,Home Office,United States,New York,Texas,West,Technology,Chairs,678.46,4,0.3,-24.72
+CA-2017-707040,5/2/2019,5/3/2019,Standard Class,ID-64948,Home Office,United States,Phoenix,Illinois,Central,Office Supplies,Phones,673.03,6,0.1,3.78
+CA-2017-804318,8/14/2019,8/17/2019,Same Day,ID-51441,Consumer,United States,New York,Florida,West,Furniture,Tables,221.02,5,0.1,54.37
+CA-2016-356150,1/26/2018,1/29/2018,Second Class,ID-67433,Home Office,United States,Chicago,Illinois,West,Technology,Tables,306.38,2,0.1,1.6
+CA-2016-878480,2/7/2019,2/9/2019,First Class,ID-46930,Home Office,United States,Los Angeles,New York,East,Technology,Binders,510.35,5,0,-32.19
+CA-2019-969634,7/20/2017,7/21/2017,Standard Class,ID-53719,Consumer,United States,Chicago,Texas,South,Technology,Accessories,565.3,2,0,157.16
+CA-2017-672092,3/14/2016,3/21/2016,First Class,ID-86350,Home Office,United States,Los Angeles,Florida,East,Furniture,Binders,371.01,1,0.2,-4.74
+CA-2017-799330,7/29/2016,8/1/2016,Same Day,ID-91351,Home Office,United States,Los Angeles,Texas,East,Furniture,Accessories,34.54,6,0.3,5.34
+CA-2017-379766,11/22/2016,11/29/2016,Standard Class,ID-60140,Consumer,United States,Houston,Texas,East,Office Supplies,Binders,312.14,4,0.1,-25.43
+CA-2017-517821,11/3/2017,11/6/2017,Standard Class,ID-46585,Corporate,United States,Phoenix,Florida,Central,Furniture,Chairs,878.27,5,0.1,104.52
+CA-2018-140115,8/10/2016,8/15/2016,Same Day,ID-55309,Home Office,United States,Chicago,Florida,West,Office Supplies,Tables,198.18,1,0.3,-13.78
+CA-2017-481913,6/2/2018,6/3/2018,First Class,ID-91678,Corporate,United States,New York,New York,Central,Technology,Accessories,332.92,5,0.1,-6.97
+CA-2019-810219,12/22/2016,12/27/2016,First Class,ID-63225,Home Office,United States,New York,New York,Central,Furniture,Accessories,787.9,10,0.2,54.2
+CA-2019-808446,3/13/2017,3/18/2017,Same Day,ID-32241,Home Office,United States,New York,New York,Central,Furniture,Phones,676.07,4,0.1,-24.98
+CA-2016-356736,8/31/2018,9/5/2018,Standard Class,ID-69692,Corporate,United States,Phoenix,Texas,South,Office Supplies,Accessories,251.54,1,0,53.17
+CA-2017-284430,11/26/2019,12/1/2019,Same Day,ID-16582,Home Office,United States,Los Angeles,California,South,Furniture,Accessories,670.9,9,0.2,150.29
+CA-2019-742412,10/30/2018,11/3/2018,Same Day,ID-30861,Home Office,United States,Houston,Florida,Central,Furniture,Binders,768.16,9,0.3,81.03
+CA-2018-561239,6/7/2016,6/13/2016,First Class,ID-40735,Corporate,United States,Chicago,New York,West,Furniture,Phones,238.95,3,0.1,-15.98
+CA-2019-446954,1/16/2019,1/20/2019,Same Day,ID-18161,Consumer,United States,Houston,Florida,West,Technology,Accessories,482.21,6,0.2,77.69
+CA-2019-664365,1/23/2019,1/30/2019,Second Class,ID-73993,Consumer,United States,Chicago,Florida,South,Furniture,Accessories,342.77,7,0.1,72.87
+CA-2017-752483,12/29/2018,12/30/2018,Same Day,ID-87580,Home Office,United States,New York,California,South,Furniture,Accessories,189.91,5,0.3,4.11
+CA-2019-442722,11/22/2017,11/29/2017,Same Day,ID-46471,Corporate,United States,Chicago,California,South,Furniture,Tables,61.56,6,0.1,8.87
+CA-2016-890870,3/4/2016,3/6/2016,Second Class,ID-12671,Home Office,United States,Los Angeles,Texas,East,Office Supplies,Chairs,568.33,4,0.3,71.52
+CA-2018-275939,5/25/2019,5/30/2019,Standard Class,ID-31465,Corporate,United States,New York,Illinois,West,Office Supplies,Tables,680.57,7,0.3,131.77
+CA-2017-179688,4/27/2019,5/3/2019,Second Class,ID-23356,Home Office,United States,Chicago,Illinois,West,Technology,Chairs,353.73,7,0.2,-20.49
+CA-2018-113266,5/10/2018,5/17/2018,Same Day,ID-23833,Corporate,United States,Chicago,Florida,East,Office Supplies,Phones,736.46,5,0.3,44.31
+CA-2018-437960,5/17/2017,5/24/2017,Standard Class,ID-46559,Corporate,United States,Los Angeles,Florida,South,Office Supplies,Chairs,499.36,6,0.1,42.7
+CA-2018-936587,6/13/2017,6/16/2017,First Class,ID-88139,Home Office,United States,Chicago,Illinois,West,Technology,Phones,94.76,7,0.3,8.1
+CA-2017-824156,9/2/2018,9/8/2018,Same Day,ID-68743,Consumer,United States,New York,New York,East,Office Supplies,Phones,313.14,10,0.2,22.37
+CA-2018-546173,2/1/2019,2/4/2019,First Class,ID-69473,Corporate,United States,Chicago,New York,East,Furniture,Phones,322.39,9,0.1,-6.78
+CA-2019-389930,4/22/2019,4/29/2019,First Class,ID-23176,Consumer,United States,Chicago,Texas,Central,Furniture,Binders,24.01,9,0.1,0.21
+CA-2016-680238,8/21/2017,8/27/2017,Second Class,ID-93606,Corporate,United States,New York,California,Central,Office Supplies,Accessories,446.06,3,0,0.44
+CA-2019-219629,5/13/2016,5/17/2016,Same Day,ID-19710,Home Office,United States,New York,Texas,East,Technology,Binders,94.33,4,0,11.62
+CA-2019-735770,5/5/2019,5/12/2019,Second Class,ID-78494,Corporate,United States,Houston,Florida,Central,Technology,Accessories,312.33,10,0,44.93
+CA-2016-899787,3/1/2017,3/7/2017,Second Class,ID-44687,Home Office,United States,New York,Texas,East,Furniture,Tables,84.31,1,0.3,4.73
+CA-2019-405407,3/7/2016,3/9/2016,First Class,ID-47056,Home Office,United States,Houston,California,East,Office Supplies,Tables,664.57,4,0.3,-25.16
+CA-2017-779094,11/1/2016,11/4/2016,Second Class,ID-19359,Consumer,United States,Los Angeles,New York,Central,Office Supplies,Chairs,474.01,5,0.3,91.93
+CA-2019-559023,6/13/2016,6/18/2016,Standard Class,ID-66626,Home Office,United States,Chicago,Illinois,Central,Furniture,Chairs,236.64,10,0,70.95
+CA-2018-704238,3/23/2016,3/30/2016,Second Class,ID-71669,Home Office,United States,Houston,New York,East,Technology,Accessories,638.44,8,0,56.19
+CA-2019-449499,10/19/2017,10/25/2017,Standard Class,ID-31079,Corporate,United States,Houston,Florida,Central,Technology,Accessories,815.43,9,0,66.81
+CA-2018-364659,10/24/2017,10/25/2017,Same Day,ID-77449,Consumer,United States,Phoenix,Florida,South,Furniture,Phones,523.25,10,0.3,55
+CA-2016-313446,6/30/2017,7/5/2017,Second Class,ID-47752,Corporate,United States,Houston,California,West,Technology,Tables,801.32,3,0.2,77.14
+CA-2019-197736,4/5/2017,4/12/2017,Standard Class,ID-70482,Consumer,United States,Los Angeles,Florida,Central,Technology,Binders,421.34,8,0.3,-0.74
+CA-2017-502219,1/25/2017,1/30/2017,Second Class,ID-19150,Corporate,United States,Houston,New York,Central,Furniture,Binders,728.79,10,0.3,125.55
+CA-2019-664742,9/18/2018,9/21/2018,First Class,ID-82340,Home Office,United States,Houston,Florida,Central,Furniture,Phones,576.08,4,0.3,-33.29
+CA-2019-839485,2/19/2018,2/23/2018,Second Class,ID-74923,Consumer,United States,Los Angeles,Illinois,Central,Furniture,Accessories,108.71,8,0,20.54
+CA-2019-786587,11/12/2016,11/13/2016,Same Day,ID-44737,Corporate,United States,Phoenix,Florida,West,Office Supplies,Tables,386.21,6,0.3,67.3
+CA-2016-747453,5/20/2016,5/22/2016,First Class,ID-39817,Home Office,United States,New York,Florida,West,Technology,Chairs,449.24,5,0,-36.66
+CA-2016-407618,1/4/2018,1/7/2018,Same Day,ID-29080,Consumer,United States,Phoenix,Florida,East,Furniture,Phones,88.18,7,0.1,7.86
+CA-2017-343467,8/2/2018,8/8/2018,First Class,ID-70236,Corporate,United States,New York,Florida,Central,Technology,Tables,166.4,8,0.2,39.28
+CA-2018-769975,5/18/2018,5/24/2018,First Class,ID-69878,Corporate,United States,Los Angeles,Florida,South,Furniture,Phones,387.55,6,0.2,92.11
+CA-2018-123005,9/10/2019,9/14/2019,First Class,ID-11061,Home Office,United States,New York,Illinois,South,Office Supplies,Phones,610.99,6,0.1,85.04
+CA-2018-810687,9/12/2019,9/18/2019,Second Class,ID-92345,Consumer,United States,New York,New York,South,Furniture,Tables,371.21,3,0,97.94
+CA-2018-883790,4/30/2018,5/2/2018,Second Class,ID-27322,Home Office,United States,Chicago,Illinois,Central,Furniture,Binders,914.91,8,0.2,145.38
+CA-2018-943298,8/23/2016,8/27/2016,Standard Class,ID-28449,Consumer,United States,Houston,Illinois,Central,Furniture,Accessories,23.78,9,0,1.95
+CA-2018-712955,2/19/2018,2/26/2018,First Class,ID-24201,Home Office,United States,Los Angeles,Florida,West,Technology,Tables,334.73,10,0.1,47.92
+CA-2019-835132,9/10/2017,9/16/2017,Same Day,ID-25292,Consumer,United States,New York,California,Central,Office Supplies,Chairs,106.22,9,0.1,5.3
+CA-2018-803055,11/27/2019,12/2/2019,Same Day,ID-86983,Home Office,United States,Los Angeles,Florida,West,Office Supplies,Tables,414.03,5,0,72.92
+CA-2017-564920,6/29/2018,7/1/2018,First Class,ID-23022,Home Office,United States,Chicago,Illinois,Central,Furniture,Accessories,283.12,2,0.3,-12.55
+CA-2017-772875,8/2/2019,8/7/2019,Standard Class,ID-16629,Corporate,United States,Los Angeles,Texas,East,Furniture,Tables,215.09,4,0.1,6.08
+CA-2017-926952,5/5/2019,5/6/2019,First Class,ID-28964,Consumer,United States,Phoenix,New York,East,Furniture,Chairs,140.49,6,0.1,17.14
+CA-2016-282710,6/27/2017,6/28/2017,Second Class,ID-65176,Home Office,United States,New York,California,South,Office Supplies,Binders,518.11,2,0.3,36.82
+CA-2016-862569,9/11/2019,9/16/2019,First Class,ID-70036,Home Office,United States,New York,California,South,Office Supplies,Accessories,689.24,8,0.3,-34.06
+CA-2016-437758,5/30/2019,6/1/2019,Standard Class,ID-26540,Corporate,United States,Phoenix,Illinois,Central,Office Supplies,Tables,535.25,8,0.3,-22.6
+CA-2016-994217,9/2/2019,9/8/2019,Second Class,ID-66370,Corporate,United States,Los Angeles,Florida,Central,Office Supplies,Accessories,421.83,2,0.2,23.86
+CA-2018-492483,11/8/2016,11/14/2016,Same Day,ID-18799,Consumer,United States,New York,California,South,Furniture,Binders,813.65,9,0,109.51
+CA-2018-802559,9/7/2016,9/11/2016,First Class,ID-97207,Corporate,United States,New York,New York,Central,Office Supplies,Chairs,582.14,4,0.1,85.24
+CA-2017-988432,8/9/2016,8/12/2016,First Class,ID-25058,Corporate,United States,Phoenix,Texas,South,Technology,Tables,617.44,9,0,88.66
+CA-2018-130359,1/4/2017,1/7/2017,First Class,ID-54541,Corporate,United States,New York,Texas,East,Technology,Accessories,78.89,1,0,15.66
+CA-2017-494468,5/9/2018,5/13/2018,First Class,ID-30631,Corporate,United States,Chicago,New York,West,Furniture,Phones,165.84,10,0,28.12
+CA-2018-564637,9/17/2019,9/21/2019,Same Day,ID-89570,Corporate,United States,Houston,New York,East,Technology,Chairs,351.72,2,0.2,48.2
+CA-2019-652530,9/28/2019,10/1/2019,Standard Class,ID-38903,Corporate,United States,Phoenix,California,West,Furniture,Binders,945.87,3,0.2,11.94
+CA-2016-108105,10/15/2018,10/21/2018,Same Day,ID-33028,Consumer,United States,Houston,Illinois,East,Technology,Tables,835.02,6,0,49.12
+CA-2016-557409,2/8/2016,2/12/2016,Standard Class,ID-51033,Home Office,United States,Houston,Illinois,South,Technology,Accessories,296.62,7,0,84.98
+CA-2017-940247,6/19/2019,6/23/2019,First Class,ID-21551,Corporate,United States,New York,Texas,South,Technology,Accessories,528.72,7,0.2,83.89
+CA-2017-449247,12/10/2016,12/11/2016,Standard Class,ID-79547,Home Office,United States,Los Angeles,New York,Central,Technology,Phones,243.91,3,0.2,-4.12
+CA-2017-897143,9/4/2019,9/5/2019,Second Class,ID-92306,Corporate,United States,Houston,Illinois,South,Technology,Tables,646.56,10,0.2,127.09
+CA-2018-258290,6/19/2018,6/20/2018,Same Day,ID-67961,Home Office,United States,Chicago,New York,West,Office Supplies,Tables,83.45,8,0.3,-4.96
+CA-2018-972097,8/10/2017,8/11/2017,Standard Class,ID-90610,Home Office,United States,Phoenix,Florida,South,Technology,Tables,954.69,1,0.3,176.17
+CA-2017-437145,5/24/2019,5/28/2019,Second Class,ID-18109,Corporate,United States,New York,New York,West,Technology,Phones,48.75,8,0.3,3.74
+CA-2017-481574,2/2/2018,2/5/2018,Same Day,ID-63578,Corporate,United States,Phoenix,California,Central,Furniture,Binders,103.56,7,0.2,0.07
+CA-2017-449555,6/15/2016,6/20/2016,Second Class,ID-55851,Corporate,United States,Houston,Texas,West,Office Supplies,Tables,382.91,6,0.1,57.91
+CA-2016-777406,10/5/2019,10/9/2019,First Class,ID-12389,Corporate,United States,Chicago,Texas,East,Office Supplies,Accessories,200.09,3,0.1,-12.45
+CA-2016-632351,1/10/2019,1/17/2019,Standard Class,ID-96760,Corporate,United States,Phoenix,Texas,South,Furniture,Phones,189.04,10,0.1,32.07
+CA-2016-530816,1/16/2018,1/22/2018,Second Class,ID-68222,Home Office,United States,Chicago,Florida,East,Technology,Phones,316.37,8,0.1,13.42
+CA-2019-584106,7/31/2017,8/7/2017,Same Day,ID-75916,Home Office,United States,Houston,Texas,East,Technology,Phones,874.27,1,0.3,152.78
+CA-2016-845957,11/22/2018,11/29/2018,Standard Class,ID-47363,Consumer,United States,Los Angeles,New York,South,Technology,Phones,832.74,2,0.1,169.89
+CA-2018-127965,4/29/2018,4/30/2018,Same Day,ID-75799,Corporate,United States,Los Angeles,Florida,West,Office Supplies,Phones,37.91,2,0.2,6.57
+CA-2017-140163,8/10/2017,8/17/2017,Same Day,ID-28191,Home Office,United States,Houston,Florida,West,Furniture,Chairs,263.36,3,0.3,-10.24
+CA-2018-349183,9/8/2017,9/9/2017,Standard Class,ID-41252,Corporate,United States,Phoenix,Florida,West,Furniture,Accessories,600.77,1,0.1,101.34
+CA-2018-550089,1/4/2016,1/9/2016,First Class,ID-41531,Home Office,United States,Houston,Texas,West,Technology,Binders,77,9,0,4.33
+CA-2019-145649,7/25/2019,7/29/2019,First Class,ID-43246,Home Office,United States,New York,New York,West,Office Supplies,Phones,735.61,2,0.2,-27.44
+CA-2018-672536,11/24/2017,12/1/2017,Second Class,ID-99742,Corporate,United States,Houston,Texas,East,Furniture,Accessories,46.61,4,0,10.09
+CA-2016-430926,9/27/2017,10/2/2017,Same Day,ID-81176,Corporate,United States,Chicago,California,East,Office Supplies,Binders,863.52,1,0.2,6.42
+CA-2018-558176,3/30/2018,4/5/2018,Same Day,ID-60678,Corporate,United States,Los Angeles,Florida,South,Office Supplies,Tables,274.05,2,0.3,-13.13
+CA-2017-671971,8/24/2017,8/27/2017,Standard Class,ID-20494,Corporate,United States,Chicago,New York,South,Technology,Accessories,174.98,8,0.2,11.04
+CA-2018-744718,6/9/2018,6/12/2018,Standard Class,ID-19835,Home Office,United States,Houston,New York,East,Furniture,Phones,850.18,8,0,-42.09
+CA-2017-916332,8/14/2019,8/17/2019,First Class,ID-60181,Home Office,United States,New York,Illinois,East,Technology,Accessories,949.34,6,0.3,136.39
+CA-2017-655178,1/21/2018,1/25/2018,First Class,ID-95139,Corporate,United States,Los Angeles,California,West,Technology,Phones,504.05,7,0,2.37
+CA-2018-838237,7/2/2018,7/4/2018,First Class,ID-74382,Consumer,United States,New York,Texas,West,Office Supplies,Phones,899.69,8,0,201.72
+CA-2018-800280,12/12/2017,12/18/2017,Standard Class,ID-82089,Home Office,United States,Chicago,New York,East,Technology,Phones,795.76,9,0.1,-36.85
+CA-2017-930541,10/11/2016,10/13/2016,Same Day,ID-13445,Corporate,United States,Phoenix,Illinois,Central,Office Supplies,Tables,138.47,2,0,3.28
+CA-2019-651231,4/21/2018,4/28/2018,Same Day,ID-85353,Consumer,United States,Los Angeles,New York,West,Office Supplies,Accessories,683.31,6,0.1,154.47
+CA-2017-905077,9/21/2016,9/25/2016,Standard Class,ID-26274,Home Office,United States,Los Angeles,New York,East,Furniture,Binders,935.39,4,0.2,208.77
+CA-2018-987025,6/10/2016,6/13/2016,Second Class,ID-93238,Home Office,United States,Chicago,Texas,Central,Technology,Tables,102.49,3,0.1,-2.91
+CA-2018-983456,2/28/2019,3/1/2019,Standard Class,ID-20646,Consumer,United States,Phoenix,New York,East,Technology,Accessories,621.93,1,0.3,111.28
+CA-2018-773088,9/10/2017,9/14/2017,Second Class,ID-99783,Corporate,United States,Chicago,Florida,West,Technology,Chairs,166.5,7,0.3,10
+CA-2018-736129,10/21/2016,10/24/2016,First Class,ID-55268,Corporate,United States,Los Angeles,New York,West,Office Supplies,Phones,471.81,5,0.3,-0.27
+CA-2016-153063,8/17/2017,8/21/2017,Same Day,ID-42541,Consumer,United States,Chicago,Illinois,Central,Furniture,Phones,503.28,9,0.3,35.05
+CA-2018-621530,2/17/2016,2/18/2016,Same Day,ID-76249,Corporate,United States,Los Angeles,Texas,Central,Furniture,Chairs,288.54,10,0.3,2.89
+CA-2016-988324,8/8/2016,8/12/2016,Second Class,ID-44664,Home Office,United States,Chicago,Florida,Central,Furniture,Accessories,60.65,9,0.1,2.46
+CA-2018-177103,3/2/2018,3/7/2018,Same Day,ID-82070,Corporate,United States,Phoenix,Illinois,West,Furniture,Chairs,399.96,6,0.2,64.63
+CA-2017-731728,11/8/2018,11/12/2018,Standard Class,ID-15938,Consumer,United States,Los Angeles,New York,South,Technology,Accessories,157.45,9,0.1,4.42
+CA-2018-270395,3/15/2018,3/20/2018,First Class,ID-87820,Corporate,United States,Phoenix,Illinois,South,Technology,Tables,306.79,1,0.2,7.98
+CA-2016-536774,4/10/2019,4/13/2019,Standard Class,ID-88238,Corporate,United States,Chicago,Illinois,East,Technology,Chairs,587.69,3,0.3,-16.82
+CA-2017-133104,3/18/2019,3/24/2019,Standard Class,ID-35006,Consumer,United States,Houston,New York,South,Furniture,Accessories,693.6,7,0.3,120.96
+CA-2016-840058,10/9/2016,10/14/2016,Second Class,ID-83516,Corporate,United States,Houston,Illinois,South,Office Supplies,Phones,465.07,9,0.2,44.09
+CA-2018-739711,9/18/2018,9/20/2018,Second Class,ID-46569,Home Office,United States,Chicago,Texas,Central,Office Supplies,Phones,693.34,8,0.2,50.99
+CA-2018-401769,9/6/2016,9/11/2016,Same Day,ID-61712,Corporate,United States,Los Angeles,New York,West,Office Supplies,Chairs,352.9,8,0.2,56.16
+CA-2017-311883,1/8/2019,1/11/2019,First Class,ID-27992,Consumer,United States,Phoenix,Illinois,East,Furniture,Chairs,673.14,9,0.1,94.01
+CA-2016-205065,4/26/2018,4/29/2018,Same Day,ID-23178,Home Office,United States,Los Angeles,California,East,Office Supplies,Accessories,482.67,4,0.2,10.99
+CA-2016-906066,7/2/2016,7/8/2016,Second Class,ID-80143,Home Office,United States,New York,Texas,South,Furniture,Chairs,997.2,7,0.3,-17.78
+CA-2018-139286,1/19/2016,1/22/2016,Standard Class,ID-53914,Corporate,United States,Houston,Illinois,South,Furniture,Tables,473.34,4,0,15.28
+CA-2019-779776,6/10/2017,6/16/2017,Second Class,ID-11846,Home Office,United States,Chicago,New York,East,Furniture,Tables,857.59,7,0.3,63.7
+CA-2016-520304,10/2/2019,10/3/2019,Second Class,ID-28430,Corporate,United States,Chicago,Texas,West,Office Supplies,Accessories,243.17,5,0.2,4.04
+CA-2016-374258,8/31/2019,9/3/2019,Second Class,ID-18142,Home Office,United States,New York,Florida,Central,Furniture,Accessories,689.21,5,0,107.16
+CA-2018-485397,6/12/2019,6/14/2019,Second Class,ID-27507,Corporate,United States,Los Angeles,Florida,Central,Office Supplies,Tables,913.67,9,0.1,168.36
+CA-2016-651033,7/3/2018,7/8/2018,First Class,ID-20237,Home Office,United States,New York,California,East,Technology,Tables,158.35,6,0.3,-5.93
+CA-2017-851742,4/9/2019,4/13/2019,Standard Class,ID-76895,Corporate,United States,New York,Florida,East,Technology,Accessories,462.23,1,0.3,54.72
+CA-2018-858414,2/14/2016,2/18/2016,First Class,ID-10395,Home Office,United States,Los Angeles,Illinois,West,Furniture,Accessories,351.08,2,0,96.14
+CA-2016-595002,3/5/2016,3/8/2016,Same Day,ID-33590,Consumer,United States,Houston,New York,South,Office Supplies,Accessories,381.89,9,0.1,55.48
+CA-2018-224395,12/31/2016,1/5/2017,Same Day,ID-79316,Consumer,United States,Los Angeles,California,West,Office Supplies,Accessories,676.76,9,0.3,53.42
+CA-2017-359535,8/1/2018,8/4/2018,Second Class,ID-46129,Consumer,United States,New York,California,South,Technology,Chairs,248.26,2,0,34.16
+CA-2019-726822,10/8/2019,10/14/2019,Standard Class,ID-42077,Home Office,United States,New York,Florida,South,Furniture,Tables,225.1,1,0.1,20.57
+CA-2018-345536,3/25/2019,3/28/2019,First Class,ID-41051,Corporate,United States,Los Angeles,Illinois,East,Office Supplies,Binders,282.4,9,0.1,38.22
+CA-2019-682851,10/12/2018,10/13/2018,First Class,ID-94320,Home Office,United States,Houston,Illinois,Central,Technology,Accessories,414.18,5,0.3,-7.67
+CA-2019-352673,4/6/2017,4/9/2017,Second Class,ID-70689,Consumer,United States,Phoenix,Florida,South,Technology,Tables,142.75,4,0.2,-2.13
+CA-2016-571635,1/29/2018,1/30/2018,Second Class,ID-16755,Corporate,United States,Houston,Illinois,West,Furniture,Phones,806.6,10,0.1,66.61
+CA-2018-417915,2/1/2016,2/3/2016,Second Class,ID-25376,Home Office,United States,Houston,Texas,East,Office Supplies,Phones,556.56,5,0.3,33.7
+CA-2018-423404,6/19/2017,6/22/2017,Same Day,ID-71080,Consumer,United States,Houston,New York,East,Office Supplies,Binders,419.79,10,0.1,74.24
+CA-2016-373441,2/7/2019,2/12/2019,Same Day,ID-48691,Consumer,United States,Los Angeles,New York,East,Office Supplies,Tables,835.03,8,0.2,1.96
+CA-2019-858705,8/7/2019,8/13/2019,Same Day,ID-70401,Consumer,United States,Chicago,Texas,East,Technology,Tables,493.43,9,0,54.07
+CA-2016-957730,9/30/2019,10/1/2019,Standard Class,ID-64053,Consumer,United States,Los Angeles,California,East,Furniture,Phones,510.68,6,0,75.14
+CA-2019-791309,9/26/2018,9/27/2018,Standard Class,ID-79758,Home Office,United States,Houston,California,West,Technology,Binders,540.38,5,0,54.52
+CA-2019-945328,1/2/2017,1/3/2017,Standard Class,ID-78732,Consumer,United States,Los Angeles,Texas,Central,Office Supplies,Binders,796.99,2,0.2,180.9
+CA-2019-692447,5/13/2017,5/19/2017,Second Class,ID-49318,Home Office,United States,New York,California,West,Office Supplies,Accessories,383.4,8,0,59.31
+CA-2017-186702,10/20/2018,10/27/2018,Same Day,ID-94529,Corporate,United States,Phoenix,California,West,Furniture,Phones,902.26,10,0.3,5.33
+CA-2016-817675,7/28/2017,8/2/2017,Standard Class,ID-33508,Corporate,United States,New York,Texas,East,Technology,Accessories,929.59,5,0.1,105.07
+CA-2019-809922,1/12/2019,1/15/2019,Same Day,ID-28343,Home Office,United States,New York,Illinois,Central,Furniture,Chairs,442.72,2,0.2,50.32
+CA-2019-911131,10/30/2017,10/31/2017,First Class,ID-69054,Corporate,United States,Los Angeles,New York,South,Office Supplies,Phones,682.9,7,0,142.64
+CA-2018-936821,5/19/2017,5/25/2017,Standard Class,ID-20752,Corporate,United States,Los Angeles,Florida,East,Technology,Accessories,323.51,2,0,-31.68
+CA-2018-566339,1/7/2018,1/14/2018,First Class,ID-23399,Consumer,United States,New York,Texas,South,Office Supplies,Tables,559.19,7,0,-50.04
+CA-2018-681141,7/9/2016,7/14/2016,First Class,ID-60493,Consumer,United States,Chicago,Florida,South,Furniture,Tables,906.16,4,0.1,142.01
+CA-2017-245584,7/4/2017,7/7/2017,First Class,ID-74634,Consumer,United States,New York,Texas,South,Office Supplies,Accessories,306.75,2,0.2,0.17
+CA-2017-855917,7/4/2019,7/8/2019,Second Class,ID-70012,Consumer,United States,Los Angeles,New York,West,Office Supplies,Binders,843.2,7,0.2,51.33
+CA-2019-955088,8/26/2019,8/31/2019,Second Class,ID-49378,Corporate,United States,Phoenix,Texas,South,Office Supplies,Phones,964.93,6,0.2,149.72
+CA-2019-703853,5/11/2017,5/14/2017,Same Day,ID-46739,Corporate,United States,Chicago,California,East,Technology,Tables,188.13,9,0,52.9
+CA-2019-842776,3/5/2017,3/9/2017,First Class,ID-19064,Corporate,United States,Houston,Texas,Central,Furniture,Binders,662.08,7,0.3,-32.63
+CA-2019-710527,3/31/2018,4/5/2018,Same Day,ID-81256,Consumer,United States,Chicago,Illinois,West,Furniture,Phones,661.03,6,0.1,94.47
+CA-2016-690579,8/14/2019,8/20/2019,Same Day,ID-53463,Corporate,United States,New York,California,West,Office Supplies,Phones,515.57,9,0.1,36.34
+CA-2019-585556,10/23/2019,10/28/2019,Second Class,ID-55215,Consumer,United States,Houston,California,Central,Office Supplies,Chairs,124.91,3,0.2,2.47
+CA-2019-922366,2/27/2017,3/4/2017,Same Day,ID-55652,Corporate,United States,New York,Florida,South,Office Supplies,Chairs,307.26,2,0,73.64
+CA-2016-810032,12/2/2016,12/8/2016,Second Class,ID-77632,Consumer,United States,Phoenix,Texas,Central,Technology,Accessories,958.88,4,0.3,101.96
+CA-2017-771590,9/8/2019,9/12/2019,Same Day,ID-13826,Home Office,United States,Phoenix,Texas,South,Technology,Accessories,394.95,4,0.1,4.03
+CA-2016-705393,7/27/2016,8/3/2016,Second Class,ID-57945,Corporate,United States,Los Angeles,Florida,West,Office Supplies,Accessories,532.44,6,0.3,53.87
+CA-2016-464825,12/21/2017,12/28/2017,Same Day,ID-90918,Consumer,United States,Chicago,Illinois,West,Technology,Phones,320.05,4,0.2,-13.63
+CA-2018-827120,10/16/2016,10/21/2016,Same Day,ID-64819,Home Office,United States,Los Angeles,Illinois,South,Office Supplies,Phones,491.8,9,0.1,53.98
+CA-2019-402865,10/14/2016,10/16/2016,First Class,ID-69113,Home Office,United States,New York,New York,West,Office Supplies,Phones,203.18,7,0.3,9.05
+CA-2019-535820,12/25/2019,1/1/2020,Same Day,ID-74054,Consumer,United States,New York,Illinois,West,Furniture,Binders,42.37,4,0.2,-1.11
+CA-2019-693127,10/11/2018,10/16/2018,Standard Class,ID-85066,Consumer,United States,Chicago,Illinois,Central,Technology,Chairs,762.4,8,0.1,203.04
+CA-2016-871740,8/31/2019,9/7/2019,Second Class,ID-49021,Consumer,United States,Houston,New York,Central,Furniture,Accessories,866.64,2,0.1,-12.52
+CA-2018-845279,6/3/2019,6/9/2019,Same Day,ID-31755,Home Office,United States,Los Angeles,Texas,East,Furniture,Tables,357.31,5,0.1,9.47
+CA-2018-403387,3/18/2019,3/21/2019,Standard Class,ID-27771,Corporate,United States,New York,New York,East,Technology,Phones,257.18,6,0.1,47.35
+CA-2019-613234,10/18/2016,10/23/2016,First Class,ID-92288,Corporate,United States,Houston,Florida,West,Technology,Chairs,408.82,5,0.2,26.78
+CA-2019-443187,4/6/2019,4/7/2019,Standard Class,ID-70089,Home Office,United States,Chicago,California,South,Furniture,Accessories,826.6,8,0.2,19.27
+CA-2018-454161,1/25/2019,1/30/2019,Second Class,ID-84205,Corporate,United States,Chicago,California,West,Furniture,Accessories,26.12,3,0.3,1.51
+CA-2019-312146,11/11/2019,11/13/2019,First Class,ID-30837,Corporate,United States,New York,New York,Central,Furniture,Binders,667.86,3,0,39.09
+CA-2018-861253,12/3/2019,12/10/2019,Second Class,ID-66260,Home Office,United States,New York,California,West,Furniture,Accessories,87.16,10,0.1,8.45
+CA-2019-109738,1/17/2016,1/23/2016,First Class,ID-25806,Corporate,United States,Los Angeles,Florida,West,Furniture,Accessories,98.44,2,0,2.49
+CA-2018-243790,2/22/2018,3/1/2018,Second Class,ID-94092,Home Office,United States,Los Angeles,California,West,Technology,Phones,445.7,4,0.1,107.49
+CA-2019-327797,6/26/2016,6/27/2016,Second Class,ID-26142,Home Office,United States,Houston,New York,South,Office Supplies,Phones,255.31,2,0.1,27.89
+CA-2018-916808,11/15/2019,11/16/2019,First Class,ID-36928,Home Office,United States,Phoenix,Illinois,East,Technology,Accessories,302.59,1,0.1,26.68
+CA-2016-352792,10/20/2018,10/26/2018,Standard Class,ID-79243,Consumer,United States,Chicago,New York,East,Office Supplies,Tables,426.65,9,0.1,78.75
+CA-2016-117500,4/17/2019,4/18/2019,Standard Class,ID-44365,Consumer,United States,New York,California,South,Technology,Binders,632.28,9,0.3,30.73
+CA-2019-186431,8/4/2019,8/9/2019,Second Class,ID-46368,Consumer,United States,Chicago,California,East,Furniture,Tables,333.48,10,0,8.03
+CA-2019-865416,5/3/2017,5/4/2017,Second Class,ID-21300,Corporate,United States,New York,Florida,West,Office Supplies,Phones,128.25,3,0,-4.42
+CA-2018-648410,11/25/2018,12/2/2018,First Class,ID-31884,Corporate,United States,Los Angeles,New York,West,Furniture,Binders,809.04,5,0,4.19
+CA-2016-620248,7/21/2018,7/26/2018,First Class,ID-17266,Corporate,United States,Phoenix,Texas,Central,Furniture,Binders,775.6,10,0,-6.7
+CA-2016-146177,1/26/2016,1/28/2016,Standard Class,ID-71835,Corporate,United States,Houston,Texas,East,Furniture,Tables,805.08,7,0.1,20.81
+CA-2019-855276,10/17/2017,10/20/2017,Standard Class,ID-84912,Corporate,United States,New York,Illinois,West,Furniture,Phones,806.29,1,0.3,-40.88
+CA-2019-396020,9/28/2017,10/1/2017,Standard Class,ID-82494,Corporate,United States,New York,New York,East,Office Supplies,Tables,786.66,10,0.1,60.58
+CA-2019-910143,2/4/2017,2/10/2017,Second Class,ID-29735,Consumer,United States,Houston,California,East,Technology,Binders,639.58,1,0.2,-50.87
+CA-2019-990247,9/21/2017,9/22/2017,Second Class,ID-79443,Consumer,United States,Houston,Florida,West,Furniture,Binders,102.1,4,0.3,12.89
+CA-2018-580728,6/22/2016,6/27/2016,Standard Class,ID-76247,Consumer,United States,Houston,California,West,Office Supplies,Phones,244.4,5,0.2,52.87
+CA-2019-834764,10/30/2017,11/2/2017,Same Day,ID-45645,Consumer,United States,New York,Texas,East,Technology,Chairs,163.86,3,0.3,9.91
+CA-2019-226601,1/2/2019,1/5/2019,Second Class,ID-69233,Corporate,United States,Houston,New York,West,Furniture,Phones,809.52,5,0,-11.33
+CA-2018-255528,7/5/2016,7/11/2016,Second Class,ID-56627,Corporate,United States,Phoenix,California,Central,Office Supplies,Phones,40.77,7,0.3,3.49
+CA-2017-199326,8/4/2018,8/5/2018,Second Class,ID-25919,Consumer,United States,New York,Texas,East,Furniture,Accessories,378.52,2,0.2,80.84
+CA-2016-122859,5/12/2016,5/14/2016,Same Day,ID-26880,Consumer,United States,Chicago,California,West,Office Supplies,Chairs,176.31,10,0.3,28.22
+CA-2019-620226,3/1/2016,3/5/2016,Same Day,ID-32650,Corporate,United States,Los Angeles,Texas,Central,Office Supplies,Accessories,884.59,1,0.1,126.51
+CA-2019-532005,2/1/2019,2/5/2019,Standard Class,ID-21497,Corporate,United States,Houston,Texas,South,Furniture,Tables,256.66,9,0,75.91
+CA-2018-602985,1/20/2019,1/27/2019,Same Day,ID-55093,Home Office,United States,Phoenix,New York,South,Office Supplies,Phones,35.8,10,0.1,-2.84
+CA-2018-161437,8/24/2018,8/29/2018,First Class,ID-86544,Consumer,United States,Los Angeles,California,East,Technology,Phones,273.86,1,0.1,32.11
+CA-2019-472039,12/21/2016,12/23/2016,Second Class,ID-87662,Corporate,United States,Chicago,Illinois,West,Technology,Binders,948.08,10,0.1,106.87
+CA-2017-977340,10/5/2018,10/10/2018,First Class,ID-33010,Corporate,United States,New York,California,West,Furniture,Tables,226.62,9,0.3,-15.82
+CA-2017-945619,9/24/2016,9/27/2016,Second Class,ID-52413,Consumer,United States,New York,Texas,East,Furniture,Tables,862.06,2,0.2,125.39
+CA-2019-714483,7/25/2016,7/28/2016,First Class,ID-52284,Consumer,United States,Los Angeles,Florida,South,Technology,Binders,182.46,9,0.2,-1.56
+CA-2017-496764,9/20/2017,9/26/2017,First Class,ID-26691,Consumer,United States,New York,Illinois,South,Technology,Chairs,190.26,6,0.1,26.69
+CA-2016-620287,10/15/2016,10/18/2016,Standard Class,ID-41194,Corporate,United States,Chicago,Texas,West,Technology,Binders,452.16,5,0.1,-0.07
+CA-2016-467506,6/9/2017,6/16/2017,Standard Class,ID-10167,Consumer,United States,Houston,Florida,South,Furniture,Accessories,498.15,7,0.2,47.19
+CA-2016-969067,9/8/2018,9/15/2018,Second Class,ID-31319,Corporate,United States,New York,California,Central,Furniture,Binders,268.52,2,0,9.86
+CA-2019-268720,6/2/2016,6/7/2016,Standard Class,ID-54295,Home Office,United States,Phoenix,Florida,West,Office Supplies,Phones,611.24,7,0.1,-43.23
+CA-2018-315535,1/24/2017,1/28/2017,First Class,ID-96585,Corporate,United States,Chicago,Texas,West,Furniture,Accessories,576.05,8,0.1,-40.54
+CA-2016-548377,6/28/2016,7/1/2016,Same Day,ID-36171,Consumer,United States,New York,Texas,East,Technology,Binders,977.29,8,0,22.81
+CA-2019-593821,9/28/2018,10/4/2018,First Class,ID-21945,Home Office,United States,Phoenix,Florida,East,Office Supplies,Accessories,375.71,8,0,2
+CA-2019-376195,4/8/2017,4/15/2017,First Class,ID-83956,Consumer,United States,Los Angeles,California,West,Technology,Binders,810.1,7,0.1,88.54
+CA-2019-958160,12/6/2018,12/10/2018,Same Day,ID-85066,Consumer,United States,Houston,New York,West,Office Supplies,Chairs,507.08,9,0.1,-23.68
+CA-2019-281276,12/8/2016,12/10/2016,Second Class,ID-26539,Consumer,United States,Houston,California,South,Furniture,Phones,835.77,5,0.2,176.73
+CA-2016-191254,3/5/2018,3/10/2018,Same Day,ID-82358,Corporate,United States,Chicago,Illinois,South,Furniture,Tables,591.7,7,0,38.92
+CA-2017-694116,4/19/2019,4/24/2019,Standard Class,ID-23845,Home Office,United States,New York,New York,Central,Office Supplies,Binders,389.21,8,0.3,-23.16
+CA-2018-522548,10/21/2016,10/26/2016,Same Day,ID-15083,Corporate,United States,Chicago,Texas,West,Technology,Accessories,921.63,6,0,32.39
+CA-2018-426053,7/28/2017,8/4/2017,Same Day,ID-99764,Consumer,United States,Los Angeles,Texas,Central,Technology,Accessories,776.29,6,0.2,118.94
+CA-2016-297064,6/23/2018,6/25/2018,Same Day,ID-73499,Home Office,United States,Chicago,California,East,Furniture,Binders,712.47,7,0.1,136.07
+CA-2016-282176,1/29/2017,2/5/2017,Second Class,ID-17553,Consumer,United States,New York,Florida,West,Office Supplies,Phones,281.24,8,0.3,30.35
+CA-2016-814263,3/3/2016,3/5/2016,First Class,ID-74066,Home Office,United States,Houston,Texas,South,Technology,Tables,356.26,3,0.2,56.88
+CA-2016-398916,2/26/2016,3/1/2016,Standard Class,ID-31352,Home Office,United States,Los Angeles,Texas,East,Technology,Phones,276.39,7,0,67.95
+CA-2016-597126,9/27/2016,10/3/2016,Second Class,ID-88792,Consumer,United States,Los Angeles,New York,Central,Technology,Binders,429.57,7,0.2,28.73
+CA-2017-589368,9/10/2017,9/16/2017,Same Day,ID-86609,Consumer,United States,New York,Illinois,Central,Technology,Tables,612.96,5,0,56.82
+CA-2018-389913,8/4/2019,8/7/2019,First Class,ID-44229,Home Office,United States,Chicago,Texas,East,Technology,Phones,900.69,10,0.3,103.53
+CA-2017-856320,2/22/2016,2/28/2016,Same Day,ID-48745,Corporate,United States,Houston,Florida,South,Technology,Chairs,587.19,10,0.1,19.69
+CA-2017-819656,12/30/2018,1/5/2019,Same Day,ID-98063,Corporate,United States,Phoenix,New York,East,Technology,Tables,189.32,2,0.3,-6.47
+CA-2018-860413,2/18/2019,2/25/2019,Second Class,ID-99091,Corporate,United States,New York,Texas,Central,Furniture,Binders,426.27,6,0.2,1.44
+CA-2018-586288,8/29/2016,9/2/2016,Standard Class,ID-93151,Home Office,United States,Phoenix,Illinois,West,Office Supplies,Phones,505.47,7,0.2,26.38
+CA-2017-244037,2/14/2017,2/17/2017,Same Day,ID-84632,Corporate,United States,Los Angeles,New York,East,Furniture,Accessories,339.3,3,0.2,41.75
+CA-2016-574012,7/14/2017,7/16/2017,Second Class,ID-85534,Consumer,United States,Houston,California,East,Technology,Accessories,637.15,7,0.3,127.62
+CA-2019-104895,3/18/2016,3/23/2016,Second Class,ID-58903,Consumer,United States,Chicago,Illinois,East,Furniture,Chairs,630.42,4,0.1,100.66
+CA-2018-427252,9/21/2016,9/22/2016,Same Day,ID-75973,Home Office,United States,Chicago,Texas,West,Furniture,Binders,948.98,8,0.2,55.77
+CA-2017-459381,9/30/2018,10/3/2018,Second Class,ID-31611,Corporate,United States,New York,Texas,East,Technology,Phones,219.08,1,0.1,-10
+CA-2016-493417,8/4/2019,8/7/2019,Standard Class,ID-87846,Consumer,United States,New York,California,West,Technology,Chairs,422.61,7,0,50.25
+CA-2019-835962,11/9/2016,11/11/2016,Standard Class,ID-49467,Corporate,United States,New York,Illinois,Central,Technology,Tables,703.72,7,0,73.63
+CA-2016-396439,8/21/2016,8/28/2016,Standard Class,ID-75239,Consumer,United States,Phoenix,Texas,Central,Technology,Phones,364.34,7,0.2,-10.45
+CA-2019-317782,11/10/2019,11/14/2019,First Class,ID-40737,Consumer,United States,New York,California,West,Technology,Accessories,157.65,2,0,29.86
+CA-2016-368322,8/12/2019,8/14/2019,Same Day,ID-48800,Corporate,United States,Houston,California,West,Furniture,Chairs,853.73,6,0.2,48.08
+CA-2016-199613,4/3/2016,4/4/2016,Second Class,ID-96947,Home Office,United States,Los Angeles,New York,Central,Office Supplies,Tables,275.63,2,0.2,49.83
+CA-2017-219361,3/31/2018,4/4/2018,Same Day,ID-45629,Corporate,United States,Houston,Florida,East,Furniture,Phones,699.21,1,0.1,-36.82
+CA-2019-941235,3/11/2019,3/17/2019,Same Day,ID-33758,Home Office,United States,Houston,New York,West,Technology,Phones,488.25,8,0,124.52
+CA-2019-148205,5/9/2016,5/12/2016,First Class,ID-11620,Home Office,United States,Phoenix,Illinois,East,Technology,Binders,523.91,10,0,38.32
+CA-2017-605339,12/9/2017,12/15/2017,Same Day,ID-29484,Home Office,United States,Phoenix,California,West,Technology,Phones,510.51,8,0.3,88.54
+CA-2016-887931,10/3/2018,10/6/2018,Second Class,ID-53371,Corporate,United States,New York,Illinois,East,Technology,Accessories,409.24,4,0,34.23
+CA-2019-192295,10/17/2018,10/21/2018,First Class,ID-25559,Corporate,United States,New York,California,South,Office Supplies,Chairs,561.56,1,0,121.7
+CA-2018-633030,2/25/2019,2/27/2019,Same Day,ID-54676,Corporate,United States,New York,Texas,South,Office Supplies,Tables,769.74,10,0.3,100.58
+CA-2018-850689,7/15/2018,7/16/2018,Standard Class,ID-96364,Consumer,United States,New York,New York,Central,Technology,Binders,552.21,6,0,-45.11
+CA-2017-616342,10/14/2016,10/21/2016,Same Day,ID-24019,Corporate,United States,Phoenix,Texas,East,Furniture,Accessories,223.43,4,0.2,-10.17
+CA-2019-148759,7/20/2019,7/27/2019,Standard Class,ID-69048,Corporate,United States,Phoenix,Illinois,East,Office Supplies,Chairs,535.06,1,0.3,88.21
+CA-2019-633025,12/28/2016,1/3/2017,Second Class,ID-26827,Consumer,United States,Houston,Illinois,Central,Technology,Accessories,424.48,10,0.1,3.61
+CA-2018-408463,7/16/2018,7/23/2018,Second Class,ID-28111,Corporate,United States,Phoenix,Illinois,Central,Technology,Tables,862.1,9,0.1,-15.24
+CA-2018-819964,12/8/2017,12/14/2017,Second Class,ID-95208,Consumer,United States,Phoenix,Illinois,Central,Technology,Chairs,763.17,9,0.3,71.12
+CA-2019-806995,12/29/2018,1/1/2019,Same Day,ID-11673,Home Office,United States,New York,California,South,Furniture,Chairs,673.55,4,0.2,107.81
+CA-2017-400538,10/31/2019,11/3/2019,Second Class,ID-18130,Home Office,United States,Chicago,Texas,West,Office Supplies,Accessories,111.46,9,0.1,19.76
+CA-2019-349136,11/12/2018,11/19/2018,First Class,ID-97096,Consumer,United States,Houston,Florida,South,Technology,Binders,966.17,1,0,190.79
+CA-2017-750706,6/26/2018,7/3/2018,Second Class,ID-93071,Home Office,United States,Chicago,Illinois,East,Technology,Phones,301.24,3,0,-7.59
+CA-2017-870786,11/18/2018,11/19/2018,Same Day,ID-15326,Corporate,United States,Chicago,Illinois,Central,Furniture,Phones,588.15,5,0,18.95
+CA-2017-141880,11/10/2016,11/13/2016,Standard Class,ID-91968,Home Office,United States,Chicago,Florida,Central,Furniture,Binders,530.14,3,0,113.72
+CA-2017-536135,1/17/2019,1/22/2019,Same Day,ID-22051,Corporate,United States,Los Angeles,Texas,Central,Office Supplies,Binders,300.64,10,0.3,62.85
+CA-2016-220294,10/1/2019,10/4/2019,Same Day,ID-41502,Home Office,United States,Phoenix,Illinois,East,Furniture,Binders,387.56,2,0.3,0.72
+CA-2018-125905,11/24/2018,12/1/2018,First Class,ID-77411,Home Office,United States,Houston,Florida,West,Office Supplies,Phones,327.11,2,0,-10.81
+CA-2016-757386,5/14/2016,5/16/2016,Second Class,ID-99837,Corporate,United States,New York,Texas,South,Technology,Chairs,749.42,3,0,62.72
+CA-2018-139726,6/28/2016,6/29/2016,Standard Class,ID-33329,Corporate,United States,Phoenix,California,East,Office Supplies,Accessories,394.15,7,0.3,7.33
+CA-2019-806004,8/30/2016,9/4/2016,Standard Class,ID-94072,Home Office,United States,Phoenix,California,West,Technology,Chairs,364.12,9,0,5.8
+CA-2018-736030,6/26/2016,6/29/2016,Same Day,ID-59992,Corporate,United States,New York,Florida,East,Technology,Phones,145.02,7,0.2,32.95
+CA-2017-412534,10/19/2019,10/26/2019,First Class,ID-11461,Home Office,United States,Phoenix,Texas,West,Furniture,Chairs,576.99,7,0,12.62
+CA-2018-322022,4/25/2018,5/1/2018,Second Class,ID-31096,Consumer,United States,Los Angeles,Illinois,Central,Furniture,Chairs,189.54,10,0,45.59
+CA-2019-775990,1/30/2019,1/31/2019,First Class,ID-98039,Consumer,United States,Chicago,California,East,Technology,Tables,492.32,6,0.2,-19.19
+CA-2017-204904,8/6/2017,8/11/2017,Standard Class,ID-35362,Corporate,United States,Houston,Florida,Central,Technology,Binders,696.52,3,0.2,124.3
+CA-2019-276831,1/10/2016,1/13/2016,Second Class,ID-39035,Home Office,United States,Houston,New York,Central,Furniture,Binders,879.11,8,0.3,26.77
+CA-2018-610626,2/3/2019,2/4/2019,Second Class,ID-94613,Home Office,United States,New York,New York,East,Technology,Phones,270.6,2,0,69.5
+CA-2016-952117,4/6/2019,4/11/2019,Same Day,ID-87337,Consumer,United States,New York,Illinois,Central,Technology,Tables,477.38,3,0.2,21.77
+CA-2018-240384,8/9/2018,8/14/2018,Standard Class,ID-62007,Corporate,United States,Phoenix,California,East,Technology,Phones,759.63,3,0.3,-19.31
+CA-2017-871667,9/17/2018,9/20/2018,Standard Class,ID-38681,Corporate,United States,Los Angeles,California,Central,Office Supplies,Phones,52.38,4,0.2,2.31
+CA-2019-148693,3/22/2016,3/28/2016,First Class,ID-23529,Home Office,United States,Phoenix,New York,Central,Technology,Tables,574.46,7,0.3,18.55
+CA-2016-641760,5/30/2017,6/3/2017,Second Class,ID-77681,Corporate,United States,Chicago,New York,South,Office Supplies,Tables,16.53,3,0.3,-0.39
+CA-2016-639535,8/10/2019,8/13/2019,Second Class,ID-29692,Consumer,United States,Los Angeles,New York,West,Technology,Phones,420.47,6,0,38.94
+CA-2019-602290,3/7/2017,3/12/2017,Second Class,ID-94837,Corporate,United States,New York,Texas,West,Furniture,Tables,596.42,3,0,152.87
+CA-2017-158627,12/6/2016,12/9/2016,Second Class,ID-77717,Corporate,United States,Phoenix,Illinois,West,Technology,Binders,947.78,4,0.3,94.61
+CA-2019-605065,12/15/2016,12/17/2016,Same Day,ID-88753,Consumer,United States,Phoenix,Texas,Central,Furniture,Binders,923.13,10,0,-7.45
+CA-2019-238635,8/10/2016,8/11/2016,Second Class,ID-78512,Home Office,United States,Houston,Texas,West,Furniture,Accessories,902.59,10,0,226.64
+CA-2016-197716,9/14/2018,9/20/2018,Second Class,ID-89098,Home Office,United States,New York,Florida,South,Office Supplies,Chairs,700.67,7,0.1,173.65
+CA-2019-927909,2/19/2018,2/22/2018,Standard Class,ID-65769,Consumer,United States,Chicago,Florida,East,Furniture,Binders,602.31,9,0.3,1.32
+CA-2016-843596,1/15/2016,1/20/2016,Standard Class,ID-78126,Consumer,United States,Houston,Texas,Central,Office Supplies,Binders,115.52,7,0.2,0.42
+CA-2019-692099,1/18/2018,1/23/2018,First Class,ID-99208,Corporate,United States,Los Angeles,Florida,South,Furniture,Binders,563.5,8,0.2,133.17
+CA-2018-911801,12/15/2019,12/19/2019,Second Class,ID-96413,Consumer,United States,Los Angeles,Florida,East,Furniture,Phones,513.26,6,0,-18.33
+CA-2016-943442,7/5/2016,7/12/2016,Second Class,ID-71822,Home Office,United States,Houston,California,West,Office Supplies,Phones,377.13,10,0,71.58
+CA-2019-743789,9/5/2019,9/10/2019,First Class,ID-88311,Consumer,United States,Los Angeles,Florida,South,Furniture,Phones,852.06,9,0.2,-15.07
+CA-2017-745073,12/13/2016,12/19/2016,Standard Class,ID-57151,Consumer,United States,New York,Texas,West,Office Supplies,Accessories,359.6,7,0.3,33.84
+CA-2016-872722,12/12/2019,12/13/2019,Standard Class,ID-82036,Corporate,United States,Phoenix,Illinois,Central,Office Supplies,Binders,234.03,4,0.3,44.54
+CA-2016-373791,12/24/2016,12/28/2016,Standard Class,ID-83220,Consumer,United States,Phoenix,New York,Central,Furniture,Tables,957.14,9,0.2,136.05
+CA-2019-690525,9/17/2018,9/24/2018,Second Class,ID-54520,Corporate,United States,Houston,Illinois,West,Office Supplies,Chairs,265.24,7,0.1,40.76
+CA-2017-939030,10/8/2017,10/12/2017,First Class,ID-77699,Home Office,United States,New York,New York,East,Office Supplies,Chairs,404.94,6,0,49.33
+CA-2017-599704,10/4/2017,10/7/2017,Second Class,ID-85197,Corporate,United States,Los Angeles,Texas,South,Technology,Phones,242.51,4,0.2,-3.35
+CA-2017-975498,5/26/2017,6/2/2017,First Class,ID-30446,Consumer,United States,New York,California,South,Technology,Chairs,766.6,9,0,183.37
+CA-2018-750817,10/7/2017,10/11/2017,First Class,ID-74330,Consumer,United States,Phoenix,New York,South,Furniture,Tables,136.96,9,0.3,8.76
+CA-2016-626883,12/12/2017,12/16/2017,Second Class,ID-69925,Consumer,United States,Phoenix,Florida,Central,Technology,Chairs,21.7,4,0.3,2.01
+CA-2018-479167,6/8/2019,6/15/2019,First Class,ID-34530,Home Office,United States,Chicago,Texas,Central,Office Supplies,Tables,349.67,3,0.3,17.03
+CA-2019-834750,2/1/2018,2/4/2018,Same Day,ID-46651,Corporate,United States,Los Angeles,Illinois,East,Technology,Phones,816.05,5,0.1,89.7
+CA-2019-305587,10/25/2016,11/1/2016,Second Class,ID-71995,Consumer,United States,Los Angeles,Florida,South,Furniture,Tables,538.64,6,0.3,7.55
+CA-2016-517754,7/21/2016,7/27/2016,Second Class,ID-17869,Consumer,United States,Chicago,Florida,West,Office Supplies,Binders,267.17,6,0.2,8.05
+CA-2019-227126,12/20/2017,12/27/2017,Second Class,ID-85609,Home Office,United States,Phoenix,Texas,Central,Office Supplies,Binders,676.46,8,0.3,121.15
+CA-2019-743473,8/9/2017,8/13/2017,Second Class,ID-31964,Home Office,United States,Chicago,Florida,South,Furniture,Chairs,170.38,4,0.2,3.65
+CA-2018-844943,7/1/2017,7/6/2017,Same Day,ID-45553,Corporate,United States,Chicago,Illinois,South,Office Supplies,Phones,192.05,1,0.1,33.03
+CA-2018-880009,12/6/2019,12/12/2019,Standard Class,ID-37600,Consumer,United States,Houston,California,West,Furniture,Accessories,552.95,1,0.3,42.42
+CA-2016-208976,6/21/2017,6/26/2017,Second Class,ID-21050,Home Office,United States,Houston,New York,East,Furniture,Binders,448.73,3,0.1,44.71
+CA-2017-129959,3/12/2016,3/18/2016,First Class,ID-52624,Corporate,United States,Houston,Illinois,Central,Technology,Accessories,143.76,9,0.1,17.64
+CA-2019-761701,7/26/2019,7/31/2019,Same Day,ID-78610,Home Office,United States,Phoenix,New York,Central,Office Supplies,Tables,234.86,2,0.3,3.81
+CA-2019-372427,11/14/2016,11/17/2016,Standard Class,ID-10012,Home Office,United States,Los Angeles,New York,Central,Office Supplies,Tables,18.23,8,0.3,0.25
+CA-2019-936726,8/22/2017,8/27/2017,Second Class,ID-10946,Home Office,United States,Chicago,Texas,South,Technology,Accessories,400.8,3,0.3,64.91
+CA-2017-375754,6/11/2016,6/15/2016,Second Class,ID-77713,Home Office,United States,Chicago,New York,Central,Office Supplies,Phones,854.95,3,0.1,12.19
+CA-2019-747736,7/16/2018,7/19/2018,Same Day,ID-34613,Corporate,United States,New York,Texas,West,Technology,Chairs,194.08,2,0.2,1.19
+CA-2019-862427,1/17/2016,1/19/2016,Standard Class,ID-29750,Consumer,United States,Houston,Texas,Central,Office Supplies,Binders,787.87,8,0.2,53.87
+CA-2016-446290,6/13/2016,6/20/2016,Second Class,ID-17345,Corporate,United States,Houston,California,South,Furniture,Phones,896.74,5,0.3,145.19
+CA-2016-905459,5/24/2017,5/28/2017,Same Day,ID-42396,Home Office,United States,New York,Texas,South,Technology,Chairs,525.93,4,0.3,20.49
+CA-2018-438756,11/20/2016,11/26/2016,Standard Class,ID-82034,Home Office,United States,New York,New York,South,Technology,Binders,206.74,1,0.1,53.83
+CA-2017-763653,6/8/2018,6/11/2018,Standard Class,ID-31936,Corporate,United States,Phoenix,California,South,Furniture,Chairs,969.15,10,0.3,118.97
+CA-2017-489439,7/2/2016,7/4/2016,Second Class,ID-75525,Consumer,United States,Phoenix,New York,West,Furniture,Binders,648.13,9,0,-32.19
+CA-2017-432125,2/17/2019,2/24/2019,First Class,ID-67503,Home Office,United States,Los Angeles,California,South,Office Supplies,Phones,258.19,1,0.3,33.01
+CA-2018-669097,11/28/2019,12/2/2019,Second Class,ID-84278,Consumer,United States,Phoenix,New York,Central,Technology,Accessories,282.57,10,0.1,-18.42
+CA-2017-571213,8/28/2017,9/4/2017,First Class,ID-80989,Corporate,United States,Houston,California,South,Technology,Phones,884.1,10,0.2,148.82
+CA-2017-436272,5/9/2016,5/15/2016,Same Day,ID-34886,Home Office,United States,Houston,Illinois,East,Technology,Binders,329.37,6,0,-20.26
+CA-2016-145903,9/22/2016,9/24/2016,Standard Class,ID-36486,Consumer,United States,Houston,Texas,West,Furniture,Tables,645.33,7,0.3,49.84
+CA-2018-151470,1/20/2018,1/22/2018,Standard Class,ID-11715,Consumer,United States,Houston,California,South,Technology,Chairs,367.32,7,0.2,63.97
+CA-2016-963652,6/17/2019,6/20/2019,Standard Class,ID-19225,Corporate,United States,New York,Texas,West,Furniture,Phones,536.34,4,0.1,53.33
+CA-2017-697717,7/4/2019,7/6/2019,Same Day,ID-23829,Home Office,United States,Phoenix,New York,South,Technology,Accessories,884,3,0.1,95.46
+CA-2018-789472,11/19/2016,11/24/2016,Same Day,ID-56179,Corporate,United States,Phoenix,New York,Central,Office Supplies,Accessories,827.89,6,0.1,93.33
+CA-2017-493282,1/31/2019,2/6/2019,First Class,ID-57187,Corporate,United States,Houston,Florida,West,Technology,Chairs,983.13,10,0,105.24
+CA-2018-106887,9/7/2017,9/9/2017,Second Class,ID-51275,Consumer,United States,Chicago,Illinois,East,Furniture,Chairs,465.77,3,0.1,2.51
+CA-2017-344312,6/8/2017,6/15/2017,First Class,ID-22046,Home Office,United States,Houston,Illinois,East,Technology,Chairs,726.34,8,0.1,62.31
+CA-2016-724145,8/8/2019,8/11/2019,Standard Class,ID-85534,Corporate,United States,New York,California,Central,Office Supplies,Accessories,422.36,2,0.1,75.67
+CA-2016-764678,7/18/2019,7/22/2019,Standard Class,ID-49948,Home Office,United States,New York,New York,East,Office Supplies,Tables,700.79,3,0,118.75
+CA-2019-567262,5/3/2019,5/8/2019,Standard Class,ID-39109,Corporate,United States,Chicago,Florida,East,Furniture,Binders,91.72,10,0,10.94
+CA-2018-189211,3/27/2018,4/1/2018,Same Day,ID-27088,Consumer,United States,Houston,Illinois,East,Office Supplies,Accessories,655.73,4,0.1,-1.81
+CA-2018-914504,5/30/2018,6/2/2018,Standard Class,ID-24749,Home Office,United States,Houston,Florida,Central,Office Supplies,Phones,327.53,10,0,68.08
+CA-2017-466704,6/16/2019,6/23/2019,Same Day,ID-91681,Consumer,United States,Houston,California,East,Furniture,Binders,164.43,2,0,32.2
+CA-2017-751168,10/29/2016,11/5/2016,First Class,ID-11800,Corporate,United States,New York,New York,South,Office Supplies,Chairs,338.56,9,0.1,-5.63
+CA-2018-675458,9/16/2018,9/21/2018,Second Class,ID-97590,Consumer,United States,Houston,Illinois,West,Office Supplies,Phones,69.51,4,0.2,-4.38
+CA-2016-169832,3/6/2018,3/12/2018,First Class,ID-96898,Home Office,United States,Chicago,California,West,Office Supplies,Accessories,238.86,7,0,62.47
+CA-2019-726111,12/24/2018,12/25/2018,Second Class,ID-36066,Home Office,United States,Houston,Illinois,West,Furniture,Phones,923.05,5,0.2,70.87
+CA-2017-119264,12/11/2017,12/17/2017,First Class,ID-56580,Home Office,United States,Chicago,Texas,Central,Furniture,Binders,879.89,1,0.2,-6.88
+CA-2018-511929,9/7/2019,9/9/2019,Standard Class,ID-60096,Home Office,United States,Phoenix,Texas,South,Furniture,Tables,161.22,5,0.2,10.28
+CA-2017-316800,8/29/2019,8/31/2019,Second Class,ID-28102,Corporate,United States,Phoenix,Texas,South,Furniture,Tables,917.94,6,0,112.85
+CA-2016-293079,10/12/2017,10/19/2017,Second Class,ID-13864,Corporate,United States,Houston,Florida,Central,Office Supplies,Binders,160.44,4,0,-7.6
+CA-2016-899484,6/7/2019,6/12/2019,First Class,ID-89377,Home Office,United States,Phoenix,Texas,East,Furniture,Chairs,365.67,8,0.1,33.22
+CA-2019-846606,8/23/2019,8/26/2019,Second Class,ID-60785,Corporate,United States,Houston,Texas,East,Furniture,Phones,41.91,1,0.2,9.39
+CA-2017-878427,10/6/2019,10/8/2019,Second Class,ID-18668,Consumer,United States,Houston,Illinois,South,Technology,Binders,868.11,4,0.3,37.64
+CA-2016-737460,2/18/2018,2/24/2018,First Class,ID-61662,Home Office,United States,Phoenix,Illinois,West,Technology,Chairs,457.09,1,0.1,44.22
+CA-2019-870881,3/21/2016,3/26/2016,Same Day,ID-77649,Home Office,United States,New York,Texas,Central,Office Supplies,Accessories,885.55,5,0.3,-20.71
+CA-2018-742917,4/21/2016,4/27/2016,Second Class,ID-70762,Home Office,United States,Houston,California,West,Furniture,Tables,938.46,9,0.1,48.33
+CA-2018-572788,2/21/2016,2/23/2016,Same Day,ID-87373,Home Office,United States,Los Angeles,Florida,West,Office Supplies,Binders,694.8,3,0,-44.14
+CA-2019-764873,1/13/2018,1/14/2018,Same Day,ID-77065,Home Office,United States,Los Angeles,Florida,South,Furniture,Phones,913.13,10,0.1,-28.89
+CA-2017-287555,12/29/2019,12/30/2019,Same Day,ID-50378,Corporate,United States,Houston,New York,East,Furniture,Phones,960.83,1,0.2,-73.11
+CA-2019-996963,10/18/2018,10/23/2018,Standard Class,ID-89689,Corporate,United States,Los Angeles,Texas,South,Office Supplies,Accessories,447.46,10,0,-0.95
+CA-2018-749871,7/11/2019,7/16/2019,Second Class,ID-16411,Consumer,United States,Los Angeles,California,Central,Furniture,Phones,855.29,10,0.2,22.2
+CA-2016-151413,8/11/2016,8/15/2016,Second Class,ID-31146,Home Office,United States,Chicago,Illinois,East,Office Supplies,Tables,366.59,1,0,76.03
+CA-2018-486473,2/15/2018,2/22/2018,Standard Class,ID-66010,Home Office,United States,New York,New York,South,Furniture,Chairs,697.67,5,0.2,61.85
+CA-2017-829630,3/4/2017,3/9/2017,Standard Class,ID-24326,Home Office,United States,Phoenix,California,South,Technology,Tables,934.55,5,0.3,93.9
+CA-2018-372273,12/12/2018,12/17/2018,First Class,ID-27001,Home Office,United States,Phoenix,Florida,South,Office Supplies,Phones,884.83,4,0.2,206.49
+CA-2016-223949,2/19/2016,2/23/2016,Standard Class,ID-37175,Home Office,United States,Houston,Florida,West,Office Supplies,Binders,564.81,4,0,88.25
+CA-2018-366776,5/18/2016,5/21/2016,First Class,ID-76412,Home Office,United States,Chicago,California,West,Technology,Binders,347.95,10,0,81.01
+CA-2017-446569,11/23/2017,11/29/2017,Same Day,ID-72193,Consumer,United States,Los Angeles,Florida,East,Technology,Accessories,893.14,9,0.2,60.72
+CA-2019-878656,4/24/2016,5/1/2016,First Class,ID-84048,Home Office,United States,Chicago,Illinois,West,Furniture,Tables,688.64,6,0,198.22
+CA-2018-981578,3/4/2016,3/7/2016,Same Day,ID-92118,Home Office,United States,Los Angeles,Illinois,South,Furniture,Tables,125.68,5,0.2,18.49
+CA-2018-533973,6/26/2016,6/30/2016,Second Class,ID-58704,Corporate,United States,Chicago,Texas,Central,Furniture,Chairs,380.47,1,0.1,90.86
+CA-2019-630573,2/21/2016,2/28/2016,Same Day,ID-75543,Consumer,United States,Los Angeles,New York,South,Technology,Tables,317.26,6,0.1,59.33
+CA-2016-962074,11/23/2018,11/29/2018,Second Class,ID-36894,Home Office,United States,New York,Florida,South,Technology,Tables,124.68,5,0,21.8
+CA-2016-449479,8/14/2018,8/15/2018,Standard Class,ID-78233,Home Office,United States,Chicago,California,Central,Technology,Phones,327.67,4,0.2,2.79
+CA-2018-910326,6/22/2018,6/28/2018,Standard Class,ID-45737,Consumer,United States,Los Angeles,New York,West,Furniture,Tables,564.03,2,0.1,59.4
+CA-2018-384218,10/16/2016,10/22/2016,First Class,ID-85246,Consumer,United States,Los Angeles,California,Central,Technology,Binders,545.17,1,0.1,-43.38
+CA-2016-211072,2/24/2018,2/25/2018,Standard Class,ID-65897,Corporate,United States,Los Angeles,Illinois,South,Technology,Binders,319.32,4,0,92.43
+CA-2019-695370,9/26/2016,9/27/2016,Same Day,ID-22748,Corporate,United States,Chicago,Florida,South,Furniture,Phones,152.28,10,0.2,32.3
+CA-2019-292259,12/3/2019,12/9/2019,First Class,ID-52567,Corporate,United States,Houston,California,West,Office Supplies,Chairs,357.93,8,0.1,4.16
+CA-2018-733801,3/22/2019,3/24/2019,Standard Class,ID-63174,Home Office,United States,New York,New York,West,Office Supplies,Tables,466.37,10,0.3,-1.49
+CA-2017-674566,11/21/2016,11/25/2016,Same Day,ID-18658,Corporate,United States,Los Angeles,Illinois,South,Office Supplies,Tables,789.45,9,0.1,-21.86
+CA-2016-875282,12/28/2019,1/2/2020,Same Day,ID-24984,Home Office,United States,Phoenix,Florida,Central,Technology,Chairs,823.8,3,0.2,186.08
+CA-2016-727320,8/10/2016,8/16/2016,Same Day,ID-52914,Corporate,United States,New York,California,East,Furniture,Tables,904.22,1,0.1,133.75
+CA-2019-657062,8/19/2017,8/23/2017,Same Day,ID-35646,Consumer,United States,Chicago,New York,Central,Office Supplies,Binders,990.39,10,0,143.21
+CA-2019-988811,9/18/2016,9/25/2016,First Class,ID-18180,Corporate,United States,Phoenix,California,West,Technology,Tables,822.55,6,0,201.11
+CA-2016-346668,6/3/2018,6/9/2018,Same Day,ID-91948,Corporate,United States,Houston,Florida,South,Office Supplies,Tables,219.1,3,0.3,-6.81
+CA-2019-984293,1/7/2018,1/14/2018,Same Day,ID-30220,Corporate,United States,Los Angeles,Texas,West,Furniture,Chairs,152.56,8,0.3,30.97
+CA-2017-188776,10/8/2016,10/14/2016,Same Day,ID-69772,Home Office,United States,Phoenix,Florida,East,Office Supplies,Tables,429.88,8,0.3,12.68
+CA-2017-545405,5/23/2019,5/24/2019,Same Day,ID-41031,Home Office,United States,Phoenix,New York,South,Technology,Tables,373.3,1,0.3,47.55
+CA-2016-708455,9/13/2018,9/19/2018,Standard Class,ID-28623,Home Office,United States,Phoenix,New York,South,Technology,Chairs,528.12,10,0,-1.01
+CA-2016-817303,7/21/2019,7/26/2019,First Class,ID-90352,Consumer,United States,Chicago,Illinois,West,Office Supplies,Accessories,517.54,8,0.2,28.32
+CA-2018-403257,12/9/2016,12/10/2016,First Class,ID-83886,Corporate,United States,New York,Florida,East,Technology,Chairs,659.76,5,0,9.72
+CA-2016-232981,11/1/2018,11/2/2018,First Class,ID-43036,Consumer,United States,Phoenix,New York,Central,Office Supplies,Chairs,744.01,10,0.1,176.81
+CA-2017-791174,7/3/2018,7/6/2018,Second Class,ID-44242,Home Office,United States,Los Angeles,Florida,East,Technology,Chairs,349.42,2,0.1,43.47
+CA-2017-978302,10/12/2018,10/19/2018,Same Day,ID-60222,Consumer,United States,Houston,Texas,East,Technology,Binders,63.78,5,0,-5.04
+CA-2019-518114,9/2/2018,9/5/2018,Same Day,ID-79798,Consumer,United States,Houston,Florida,South,Office Supplies,Phones,535.14,7,0,8.3
+CA-2019-500560,10/21/2019,10/24/2019,Standard Class,ID-22761,Home Office,United States,Chicago,Florida,Central,Office Supplies,Binders,274.42,2,0.2,35.51
+CA-2019-583507,10/14/2019,10/20/2019,Second Class,ID-98065,Home Office,United States,Los Angeles,Illinois,Central,Technology,Phones,320.14,1,0,74.49
+CA-2016-531225,7/19/2016,7/24/2016,Standard Class,ID-99849,Corporate,United States,Chicago,Texas,Central,Office Supplies,Phones,43.7,10,0,-3.38
+CA-2017-728500,7/30/2019,7/31/2019,Standard Class,ID-21322,Home Office,United States,Los Angeles,Florida,East,Furniture,Phones,260.8,8,0,40.56
+CA-2018-906731,5/24/2018,5/30/2018,First Class,ID-43729,Consumer,United States,New York,New York,West,Office Supplies,Accessories,339.33,1,0.2,76.62
+CA-2018-286572,6/21/2018,6/22/2018,Same Day,ID-36302,Home Office,United States,Houston,Texas,South,Furniture,Phones,545.23,7,0.1,71.44
+CA-2016-563031,6/14/2017,6/15/2017,Standard Class,ID-19557,Consumer,United States,Phoenix,New York,South,Furniture,Accessories,157.37,1,0,26.1
+CA-2018-258971,12/4/2019,12/7/2019,Same Day,ID-85319,Consumer,United States,Phoenix,Florida,South,Office Supplies,Accessories,845.61,2,0.1,-75.1
+CA-2019-227091,3/7/2019,3/12/2019,First Class,ID-53704,Home Office,United States,Chicago,Florida,West,Technology,Chairs,371.7,6,0,87.9
+CA-2018-779259,2/19/2017,2/21/2017,Standard Class,ID-60353,Home Office,United States,Los Angeles,New York,South,Furniture,Binders,491.64,8,0.1,-19.48
+CA-2017-126596,4/29/2019,5/1/2019,Same Day,ID-60956,Consumer,United States,Phoenix,New York,South,Technology,Accessories,966.91,1,0,34.53
+CA-2018-926045,3/28/2016,4/1/2016,Standard Class,ID-37745,Home Office,United States,Phoenix,Florida,East,Technology,Tables,240.66,2,0,46.73
+CA-2019-785592,2/9/2016,2/13/2016,Standard Class,ID-41808,Home Office,United States,Los Angeles,California,East,Technology,Chairs,905.62,2,0.3,91.6
+CA-2016-957525,8/5/2016,8/6/2016,Same Day,ID-87984,Home Office,United States,Los Angeles,California,East,Office Supplies,Binders,813.41,7,0.2,-33.63
+CA-2017-437211,3/12/2017,3/19/2017,Standard Class,ID-87736,Consumer,United States,Chicago,California,West,Office Supplies,Phones,759.97,3,0.2,73.79
+CA-2019-355479,4/6/2019,4/7/2019,Second Class,ID-23102,Home Office,United States,Phoenix,Florida,East,Furniture,Accessories,89.92,1,0.1,21.89
+CA-2018-536440,11/21/2019,11/28/2019,Same Day,ID-26632,Consumer,United States,Los Angeles,New York,South,Office Supplies,Phones,938.71,10,0,130.02
+CA-2019-741780,6/29/2016,7/5/2016,First Class,ID-55593,Corporate,United States,New York,Illinois,East,Furniture,Chairs,986.74,2,0.2,193.47
+CA-2017-586765,7/6/2019,7/12/2019,Second Class,ID-46231,Consumer,United States,Los Angeles,California,East,Technology,Accessories,502.54,3,0,-39.39
+CA-2018-398911,3/5/2017,3/9/2017,First Class,ID-53816,Home Office,United States,Houston,California,West,Technology,Chairs,925.61,3,0.1,178.44
+CA-2019-639915,8/25/2016,8/26/2016,Second Class,ID-68303,Home Office,United States,Phoenix,New York,South,Furniture,Binders,237.76,2,0.2,-1.69
+CA-2017-873584,4/24/2018,5/1/2018,Second Class,ID-59221,Consumer,United States,New York,Florida,South,Furniture,Accessories,153.49,10,0.3,-3.09
+CA-2018-243030,7/26/2018,8/1/2018,Second Class,ID-92840,Corporate,United States,Chicago,Texas,Central,Furniture,Chairs,695.29,1,0.2,-25.25
+CA-2019-580854,5/6/2018,5/8/2018,First Class,ID-38816,Corporate,United States,Phoenix,Texas,East,Technology,Tables,856.45,2,0.3,145.56
+CA-2019-326956,4/26/2019,4/30/2019,Same Day,ID-46591,Consumer,United States,Houston,Texas,East,Office Supplies,Accessories,583.67,10,0.1,139.47
+CA-2016-538065,3/31/2016,4/1/2016,Same Day,ID-76088,Consumer,United States,Houston,Illinois,South,Office Supplies,Chairs,457.92,4,0,56.5
+CA-2016-826830,4/12/2018,4/14/2018,Second Class,ID-56976,Corporate,United States,Los Angeles,California,West,Office Supplies,Binders,170.18,8,0,49.45
+CA-2019-909327,10/10/2016,10/17/2016,Same Day,ID-34241,Corporate,United States,Houston,California,West,Office Supplies,Binders,535.61,5,0.3,75.42
+CA-2017-925954,11/3/2019,11/4/2019,First Class,ID-17184,Home Office,United States,Chicago,California,West,Office Supplies,Binders,470.7,1,0.2,17.54
+CA-2016-687997,12/23/2019,12/30/2019,Second Class,ID-28141,Corporate,United States,Los Angeles,Illinois,West,Technology,Accessories,740.01,10,0.1,134.05
+CA-2017-436030,12/23/2017,12/26/2017,Same Day,ID-46325,Consumer,United States,New York,New York,Central,Office Supplies,Accessories,506.44,2,0.3,65.2
+CA-2018-573933,6/25/2019,6/28/2019,Standard Class,ID-34687,Corporate,United States,New York,California,South,Furniture,Binders,958.67,2,0,-32.68
+CA-2016-830943,10/30/2016,11/3/2016,Second Class,ID-36772,Home Office,United States,New York,New York,South,Technology,Tables,932.4,8,0.2,50.76
+CA-2016-405677,1/22/2017,1/23/2017,Standard Class,ID-40451,Home Office,United States,Chicago,Florida,Central,Technology,Binders,491.29,9,0.3,28.61
+CA-2017-927691,9/19/2017,9/21/2017,First Class,ID-39724,Corporate,United States,Chicago,New York,West,Furniture,Binders,291.54,3,0.1,48.47
+CA-2018-291134,12/25/2016,1/1/2017,Second Class,ID-31135,Consumer,United States,New York,California,Central,Technology,Phones,446.48,6,0.1,-7.21
+CA-2016-797883,10/11/2017,10/14/2017,Second Class,ID-58878,Corporate,United States,Phoenix,Texas,Central,Furniture,Chairs,410.52,8,0.1,103.12
+CA-2018-263633,1/9/2016,1/15/2016,First Class,ID-94835,Home Office,United States,Chicago,Florida,Central,Technology,Phones,801.58,8,0.2,112.64
+CA-2019-142027,10/12/2016,10/18/2016,Standard Class,ID-50380,Consumer,United States,Houston,Illinois,East,Office Supplies,Binders,101.56,1,0.1,12.19
+CA-2017-919234,7/23/2017,7/25/2017,Standard Class,ID-20956,Home Office,United States,Houston,California,South,Furniture,Accessories,324.58,10,0,85.49
+CA-2018-516869,10/29/2016,11/4/2016,Same Day,ID-58448,Corporate,United States,Chicago,California,Central,Office Supplies,Binders,315,8,0,-4.32
+CA-2019-877548,5/1/2018,5/8/2018,Same Day,ID-47831,Consumer,United States,Houston,Florida,East,Technology,Tables,95.22,4,0.2,6.84
+CA-2018-169327,4/24/2019,5/1/2019,Same Day,ID-21593,Consumer,United States,Houston,New York,South,Furniture,Tables,467.5,10,0.1,-8.54
+CA-2019-403524,2/8/2019,2/12/2019,Standard Class,ID-49582,Home Office,United States,Chicago,Florida,South,Furniture,Chairs,793.31,3,0.2,12.74
+CA-2019-230208,9/1/2019,9/7/2019,First Class,ID-64677,Consumer,United States,Houston,Texas,West,Furniture,Binders,498.12,2,0.2,52.77
+CA-2019-370439,7/10/2019,7/16/2019,Same Day,ID-25674,Corporate,United States,Phoenix,Illinois,West,Office Supplies,Phones,585.84,3,0.2,39.56
+CA-2017-474745,11/30/2016,12/1/2016,First Class,ID-57338,Corporate,United States,Chicago,California,Central,Office Supplies,Tables,642.56,2,0.1,119.46
+CA-2017-901834,7/12/2016,7/17/2016,Second Class,ID-81265,Corporate,United States,Chicago,New York,Central,Technology,Binders,104.88,10,0.2,19.24
+CA-2016-243601,11/27/2018,11/30/2018,First Class,ID-73556,Corporate,United States,Chicago,Texas,West,Furniture,Phones,508.35,4,0,34.03
+CA-2016-222227,9/25/2016,9/26/2016,Same Day,ID-55640,Corporate,United States,Chicago,Texas,South,Technology,Tables,765.95,6,0.1,126.81
+CA-2016-880623,8/30/2016,9/1/2016,Second Class,ID-28659,Home Office,United States,Los Angeles,New York,East,Furniture,Phones,981.3,7,0,-67.62
+CA-2019-894122,6/2/2018,6/3/2018,Second Class,ID-24131,Consumer,United States,Phoenix,Illinois,West,Office Supplies,Chairs,909.44,1,0,18.79
+CA-2016-891203,7/16/2016,7/23/2016,Standard Class,ID-88878,Consumer,United States,Phoenix,Texas,East,Technology,Binders,38.97,3,0.2,8.71
+CA-2018-469311,11/24/2016,12/1/2016,Second Class,ID-76179,Home Office,United States,New York,California,West,Technology,Phones,718.65,5,0.1,168.59
+CA-2016-860583,7/21/2016,7/23/2016,Same Day,ID-58033,Home Office,United States,Phoenix,Texas,South,Technology,Chairs,189.04,6,0.3,9.21
+CA-2017-527376,8/19/2016,8/26/2016,First Class,ID-26202,Corporate,United States,New York,Illinois,East,Office Supplies,Binders,707.68,9,0,-47.49
+CA-2019-221343,2/27/2018,3/2/2018,Same Day,ID-88694,Home Office,United States,Chicago,Florida,East,Technology,Accessories,297.68,7,0.1,65.02
+CA-2019-812120,1/22/2018,1/24/2018,Standard Class,ID-98363,Corporate,United States,New York,Florida,South,Technology,Chairs,128.03,7,0.3,15.95
+CA-2016-877447,12/11/2016,12/12/2016,First Class,ID-36094,Corporate,United States,Los Angeles,Illinois,South,Furniture,Phones,839.73,8,0.2,138.34
+CA-2018-893041,8/11/2019,8/15/2019,First Class,ID-72367,Home Office,United States,Phoenix,Florida,South,Technology,Binders,155.9,8,0,-7.97
+CA-2019-621429,4/17/2017,4/23/2017,Second Class,ID-13895,Consumer,United States,New York,California,South,Technology,Chairs,972.35,7,0.2,-30.26
+CA-2016-897097,6/5/2016,6/11/2016,Same Day,ID-71082,Consumer,United States,Chicago,Florida,South,Technology,Binders,547.01,9,0,153.73
+CA-2016-551313,8/31/2016,9/4/2016,Same Day,ID-51229,Corporate,United States,Houston,Florida,West,Furniture,Phones,561.1,5,0.1,48.78
+CA-2017-427637,3/7/2018,3/11/2018,Standard Class,ID-84560,Home Office,United States,Houston,Illinois,South,Office Supplies,Tables,855.81,9,0,48.4
+CA-2019-719755,2/12/2018,2/17/2018,First Class,ID-47281,Corporate,United States,New York,California,West,Furniture,Binders,355.39,10,0,73.24
+CA-2018-499060,7/18/2016,7/22/2016,First Class,ID-56840,Corporate,United States,Chicago,California,East,Furniture,Phones,651.6,10,0,172.12
+CA-2016-419723,8/22/2016,8/25/2016,Second Class,ID-12583,Home Office,United States,Chicago,California,South,Technology,Accessories,572.37,7,0.2,-42.05
+CA-2019-716551,2/15/2016,2/18/2016,Same Day,ID-84757,Corporate,United States,Chicago,Illinois,West,Office Supplies,Chairs,693.96,4,0.2,54.79
+CA-2018-274721,6/13/2019,6/16/2019,First Class,ID-67146,Consumer,United States,Houston,California,East,Office Supplies,Binders,57.06,10,0.3,8.86
+CA-2016-852570,3/30/2019,3/31/2019,First Class,ID-45830,Consumer,United States,Phoenix,Illinois,South,Office Supplies,Phones,353.84,2,0.2,28.83
+CA-2018-553939,9/20/2019,9/25/2019,First Class,ID-36224,Corporate,United States,Houston,New York,South,Technology,Tables,188.79,1,0.1,22.21
+CA-2017-792905,8/15/2018,8/18/2018,Same Day,ID-84202,Home Office,United States,New York,Illinois,East,Office Supplies,Accessories,156.27,3,0.2,29.71
+CA-2019-434132,5/11/2016,5/17/2016,Second Class,ID-64059,Corporate,United States,Chicago,Texas,Central,Technology,Tables,243.77,4,0,-9.75
+CA-2016-357516,9/27/2017,10/1/2017,Same Day,ID-83377,Corporate,United States,Houston,California,East,Furniture,Binders,145.07,5,0.2,18.97
+CA-2017-775591,3/27/2016,4/2/2016,Same Day,ID-12609,Consumer,United States,New York,New York,Central,Furniture,Accessories,897.81,2,0.3,174.25
+CA-2017-347507,8/17/2016,8/22/2016,Standard Class,ID-78414,Home Office,United States,Phoenix,Illinois,Central,Office Supplies,Chairs,245.7,2,0.2,6.23
+CA-2019-944986,4/28/2017,5/2/2017,Second Class,ID-28910,Consumer,United States,Los Angeles,Texas,Central,Office Supplies,Accessories,261.76,10,0,25.17
+CA-2018-833602,8/19/2016,8/22/2016,Same Day,ID-72240,Home Office,United States,Los Angeles,New York,East,Office Supplies,Accessories,718.51,5,0,113.64
+CA-2016-982348,9/18/2019,9/25/2019,Standard Class,ID-98027,Consumer,United States,Chicago,Illinois,South,Office Supplies,Binders,904.13,2,0.1,197.78
+CA-2019-108248,3/15/2018,3/18/2018,First Class,ID-21829,Consumer,United States,Chicago,Texas,East,Office Supplies,Binders,880.67,7,0,8.47
+CA-2016-963185,10/3/2018,10/7/2018,Same Day,ID-53610,Home Office,United States,Houston,California,East,Technology,Binders,511.27,6,0.3,50.41
+CA-2018-575279,11/24/2019,11/25/2019,Standard Class,ID-94066,Home Office,United States,Los Angeles,Florida,East,Furniture,Accessories,208.07,5,0.2,21.69
+CA-2016-265488,5/26/2017,5/31/2017,Second Class,ID-87858,Home Office,United States,Houston,New York,South,Office Supplies,Phones,268.07,10,0.2,47.14
+CA-2017-188498,4/28/2018,5/1/2018,Second Class,ID-61576,Corporate,United States,Phoenix,Texas,West,Furniture,Tables,650.64,4,0,188.46
+CA-2017-374499,12/7/2019,12/14/2019,Second Class,ID-16525,Corporate,United States,Phoenix,Florida,Central,Furniture,Chairs,958.45,3,0,-90.43
+CA-2019-910926,7/18/2018,7/25/2018,Same Day,ID-25533,Consumer,United States,Los Angeles,Texas,Central,Office Supplies,Accessories,388.25,7,0.1,48.93
+CA-2018-862008,10/18/2019,10/20/2019,Same Day,ID-33641,Corporate,United States,Los Angeles,California,Central,Office Supplies,Phones,621.5,4,0.2,66.21
+CA-2019-189903,1/22/2016,1/26/2016,Second Class,ID-52368,Home Office,United States,Houston,Texas,South,Technology,Accessories,738.74,5,0,-45.72
+CA-2016-154644,11/12/2017,11/14/2017,Same Day,ID-56439,Home Office,United States,Phoenix,California,West,Office Supplies,Tables,623.46,5,0.3,73.54
+CA-2017-686741,3/25/2016,3/30/2016,Second Class,ID-44116,Consumer,United States,Phoenix,Florida,Central,Office Supplies,Phones,98.75,9,0.3,-2.99
+CA-2016-428486,3/31/2016,4/2/2016,Same Day,ID-46831,Home Office,United States,Chicago,Florida,Central,Office Supplies,Tables,831.29,5,0.2,49.42
+CA-2017-430870,10/3/2018,10/10/2018,Second Class,ID-82833,Home Office,United States,Houston,California,East,Furniture,Chairs,237.56,1,0.3,0.68
+CA-2019-557629,8/25/2016,8/29/2016,Standard Class,ID-67870,Corporate,United States,Phoenix,Florida,South,Office Supplies,Chairs,847.38,3,0,33.76
+CA-2017-397917,1/4/2017,1/11/2017,Second Class,ID-76681,Corporate,United States,Phoenix,Illinois,East,Technology,Chairs,530.76,10,0.1,31.8
+CA-2016-358114,10/17/2018,10/23/2018,Standard Class,ID-53077,Consumer,United States,Chicago,California,South,Office Supplies,Tables,929.86,2,0.2,-28.63
+CA-2016-582589,12/20/2019,12/26/2019,Same Day,ID-69513,Home Office,United States,Chicago,Illinois,West,Office Supplies,Chairs,659.61,8,0.2,147.21
+CA-2017-321634,4/9/2016,4/16/2016,First Class,ID-52358,Consumer,United States,New York,Illinois,South,Furniture,Accessories,262.61,4,0.3,-11.82
+CA-2017-270855,3/6/2018,3/13/2018,Same Day,ID-47347,Home Office,United States,Los Angeles,California,Central,Office Supplies,Accessories,738.53,5,0.1,28.99
+CA-2016-972470,1/22/2018,1/27/2018,Second Class,ID-74175,Corporate,United States,Houston,Florida,Central,Technology,Tables,428.84,7,0.2,49.93
+CA-2019-761322,5/22/2018,5/23/2018,Standard Class,ID-77284,Corporate,United States,Houston,Texas,East,Office Supplies,Tables,633.26,9,0,10.31
+CA-2019-183029,9/5/2018,9/8/2018,Second Class,ID-26749,Home Office,United States,Chicago,Texas,South,Office Supplies,Tables,57.25,2,0,6.03
+CA-2019-533082,7/12/2016,7/16/2016,First Class,ID-56590,Corporate,United States,Phoenix,California,West,Furniture,Accessories,187.76,3,0.3,-10.76
+CA-2019-838594,9/1/2017,9/4/2017,Same Day,ID-97852,Corporate,United States,Phoenix,New York,Central,Furniture,Phones,193.24,10,0.2,38.44
+CA-2016-554871,12/30/2018,12/31/2018,Standard Class,ID-61764,Consumer,United States,New York,Texas,South,Office Supplies,Accessories,870.09,10,0.3,12.86
+CA-2018-824211,10/11/2019,10/17/2019,Same Day,ID-49669,Consumer,United States,Los Angeles,Texas,West,Furniture,Chairs,817.81,4,0,-13.34
+CA-2017-781301,5/10/2017,5/14/2017,Second Class,ID-21284,Corporate,United States,Houston,Texas,South,Office Supplies,Chairs,125.29,3,0.3,25.04
+CA-2019-120581,7/9/2018,7/14/2018,Second Class,ID-36389,Corporate,United States,Phoenix,Florida,West,Office Supplies,Chairs,111.64,7,0.3,18.71
+CA-2018-138815,9/25/2018,9/29/2018,Same Day,ID-77286,Home Office,United States,Phoenix,Florida,East,Technology,Chairs,533.03,7,0.2,51.73
+CA-2018-779792,5/4/2018,5/8/2018,Standard Class,ID-74852,Home Office,United States,Chicago,Florida,South,Furniture,Phones,295.13,4,0.3,7.76
+CA-2017-632294,3/25/2017,3/30/2017,First Class,ID-88918,Home Office,United States,Houston,Texas,Central,Technology,Accessories,960.21,6,0.3,147.81
+CA-2017-752048,2/28/2017,3/3/2017,Standard Class,ID-97432,Corporate,United States,Los Angeles,Texas,East,Furniture,Tables,497.26,7,0.3,7.47
+CA-2017-683879,4/6/2016,4/7/2016,First Class,ID-44184,Corporate,United States,Los Angeles,Texas,West,Furniture,Binders,436.31,10,0.1,-20.31
+CA-2017-609990,6/12/2017,6/15/2017,First Class,ID-16117,Home Office,United States,Chicago,Texas,West,Technology,Chairs,927.37,8,0.3,185.05
+CA-2016-211035,6/4/2019,6/9/2019,Standard Class,ID-83724,Consumer,United States,Phoenix,California,East,Technology,Chairs,872.16,6,0.1,150.19
+CA-2019-898977,11/2/2018,11/6/2018,Standard Class,ID-30223,Home Office,United States,Chicago,New York,East,Furniture,Phones,444.72,7,0,-0.83
+CA-2019-457900,8/10/2017,8/15/2017,Second Class,ID-21171,Corporate,United States,Chicago,Florida,Central,Technology,Phones,160.1,9,0.3,24.08
+CA-2017-940715,5/28/2018,6/1/2018,Same Day,ID-70129,Home Office,United States,Chicago,California,South,Furniture,Chairs,720.45,9,0,-47.61
+CA-2018-521161,12/2/2016,12/6/2016,Standard Class,ID-61546,Consumer,United States,Los Angeles,Illinois,West,Technology,Tables,972.93,7,0.3,173.2
+CA-2018-856601,10/4/2017,10/7/2017,Standard Class,ID-46671,Home Office,United States,Phoenix,Texas,South,Office Supplies,Phones,888.7,10,0.3,111.35
+CA-2019-913066,2/8/2017,2/11/2017,Standard Class,ID-14845,Home Office,United States,Chicago,Florida,East,Technology,Tables,291.09,2,0.2,25.27
+CA-2017-124559,2/27/2016,3/5/2016,First Class,ID-41632,Corporate,United States,Houston,Illinois,West,Technology,Chairs,843.17,5,0.2,-34.05
+CA-2016-570534,9/2/2017,9/7/2017,Standard Class,ID-69394,Corporate,United States,Los Angeles,Illinois,East,Office Supplies,Binders,291.69,10,0.1,48.76
+CA-2017-210338,11/2/2017,11/7/2017,Second Class,ID-57352,Corporate,United States,New York,Texas,South,Office Supplies,Chairs,101.33,7,0.1,8.25
+CA-2019-181865,1/26/2018,2/1/2018,Same Day,ID-87101,Home Office,United States,Phoenix,Florida,Central,Technology,Accessories,640.1,8,0.3,86.34
+CA-2019-963829,11/29/2016,12/1/2016,Second Class,ID-73539,Home Office,United States,Houston,Texas,West,Technology,Phones,460.88,1,0.1,115.16
+CA-2018-224535,5/17/2019,5/24/2019,Same Day,ID-24461,Consumer,United States,Chicago,Illinois,Central,Furniture,Tables,161.77,6,0.2,38.36
+CA-2018-408261,9/22/2018,9/23/2018,Second Class,ID-28630,Home Office,United States,Houston,California,Central,Office Supplies,Phones,191.25,8,0,-9.77
+CA-2018-170846,4/1/2016,4/5/2016,Same Day,ID-85112,Corporate,United States,Phoenix,Florida,Central,Office Supplies,Accessories,836.12,10,0.1,154.1
+CA-2019-898678,7/10/2018,7/16/2018,Same Day,ID-29527,Home Office,United States,Chicago,California,South,Office Supplies,Phones,901.24,6,0,255.26
+CA-2019-871660,7/22/2017,7/28/2017,Standard Class,ID-31707,Home Office,United States,New York,Illinois,Central,Technology,Chairs,647.48,2,0.1,164.37
+CA-2016-697944,12/4/2018,12/6/2018,Same Day,ID-75881,Consumer,United States,New York,Illinois,East,Furniture,Binders,788.89,4,0.3,-36.52
+CA-2018-521315,4/21/2019,4/22/2019,Same Day,ID-13049,Corporate,United States,Houston,Texas,South,Furniture,Tables,324.21,5,0,-17.55
+CA-2016-668096,12/10/2016,12/13/2016,Second Class,ID-33942,Corporate,United States,New York,Texas,Central,Office Supplies,Phones,68.32,6,0.1,-5.48
+CA-2016-412501,3/9/2018,3/10/2018,First Class,ID-28672,Corporate,United States,Chicago,New York,South,Furniture,Chairs,210.53,10,0.1,18.42
+CA-2019-220671,7/5/2017,7/6/2017,First Class,ID-70925,Home Office,United States,Houston,California,South,Furniture,Accessories,637.21,1,0.2,62
+CA-2016-358281,2/10/2019,2/16/2019,Second Class,ID-49926,Home Office,United States,Houston,Florida,West,Technology,Tables,211.42,3,0.2,19.65
+CA-2017-920011,5/17/2017,5/22/2017,Same Day,ID-82764,Corporate,United States,New York,California,South,Technology,Binders,656.53,3,0,-49.85
+CA-2019-386578,5/9/2019,5/12/2019,Same Day,ID-56061,Home Office,United States,Los Angeles,Illinois,Central,Furniture,Phones,741.79,10,0,15.03
+CA-2019-832356,9/8/2016,9/15/2016,Second Class,ID-82938,Corporate,United States,Houston,Texas,Central,Technology,Binders,638.82,8,0.2,-0.83
+CA-2018-458224,3/7/2017,3/11/2017,First Class,ID-12080,Home Office,United States,Los Angeles,California,South,Furniture,Chairs,675.98,7,0.3,97
+CA-2016-925549,8/22/2019,8/28/2019,Standard Class,ID-80601,Consumer,United States,Houston,California,Central,Office Supplies,Tables,364.39,3,0,-18.25
+CA-2018-302365,6/29/2018,6/30/2018,Second Class,ID-12592,Corporate,United States,Chicago,Texas,West,Technology,Binders,810.33,4,0.1,212.99
+CA-2018-138583,7/28/2017,8/1/2017,Second Class,ID-10935,Consumer,United States,Houston,California,Central,Technology,Tables,499.07,9,0.1,73.63
+CA-2017-168535,4/19/2019,4/21/2019,Standard Class,ID-26702,Corporate,United States,Phoenix,Texas,Central,Furniture,Chairs,992.03,9,0.2,136.72
+CA-2019-102049,5/24/2018,5/30/2018,Standard Class,ID-52336,Corporate,United States,Houston,New York,West,Technology,Tables,471.92,6,0,119.64
+CA-2017-149246,7/23/2017,7/27/2017,Same Day,ID-51450,Consumer,United States,Houston,Texas,Central,Furniture,Tables,809.6,4,0.3,160.44
+CA-2017-306440,12/2/2016,12/5/2016,First Class,ID-18237,Home Office,United States,New York,California,South,Office Supplies,Chairs,596.61,6,0.2,-0.54
+CA-2019-349937,11/28/2017,12/5/2017,Standard Class,ID-53724,Home Office,United States,Los Angeles,California,South,Furniture,Accessories,583.15,2,0,155.52
+CA-2019-428497,11/21/2019,11/22/2019,Second Class,ID-18126,Corporate,United States,New York,New York,South,Furniture,Chairs,680.79,9,0,12.23
+CA-2019-521195,7/15/2016,7/20/2016,Same Day,ID-40554,Home Office,United States,Phoenix,California,South,Office Supplies,Accessories,797.21,10,0,28.58
+CA-2016-576133,11/25/2018,11/28/2018,Second Class,ID-24156,Consumer,United States,New York,Illinois,West,Technology,Phones,905.33,3,0.2,30.53
+CA-2019-859822,6/25/2019,6/29/2019,Second Class,ID-41870,Consumer,United States,New York,California,East,Office Supplies,Tables,441.49,6,0.2,47.14
+CA-2017-254569,8/19/2018,8/22/2018,First Class,ID-48150,Corporate,United States,New York,Illinois,East,Furniture,Phones,512.04,9,0,35.24
+CA-2017-310105,8/4/2019,8/6/2019,Standard Class,ID-54767,Consumer,United States,Houston,Florida,Central,Technology,Tables,963.43,10,0.2,52.01
+CA-2017-209940,7/19/2018,7/26/2018,Standard Class,ID-75002,Consumer,United States,New York,Texas,East,Office Supplies,Tables,221.01,8,0.2,39.41
+CA-2019-315289,3/30/2018,4/1/2018,Standard Class,ID-57555,Consumer,United States,New York,New York,West,Technology,Chairs,150.98,8,0.1,20.73
+CA-2018-146037,3/1/2016,3/3/2016,Second Class,ID-47237,Consumer,United States,Los Angeles,New York,East,Office Supplies,Tables,253.5,4,0,-7.5
+CA-2018-206105,2/12/2016,2/19/2016,Second Class,ID-59666,Home Office,United States,New York,New York,East,Office Supplies,Accessories,247.75,6,0.1,61.64
+CA-2019-845476,5/13/2016,5/14/2016,Second Class,ID-27143,Consumer,United States,Los Angeles,Illinois,South,Technology,Binders,324.77,7,0.1,78.45
+CA-2017-995940,1/1/2019,1/4/2019,Second Class,ID-52949,Consumer,United States,New York,New York,East,Technology,Tables,886.98,4,0,189.69
+CA-2016-275566,11/7/2018,11/11/2018,First Class,ID-75350,Home Office,United States,Houston,Texas,Central,Technology,Binders,530.22,8,0.3,33.22
+CA-2019-769102,4/10/2019,4/16/2019,Standard Class,ID-37158,Consumer,United States,Los Angeles,Florida,East,Office Supplies,Phones,312.94,7,0.1,77.23
+CA-2018-366893,2/1/2019,2/2/2019,Second Class,ID-21013,Corporate,United States,Houston,Illinois,Central,Furniture,Tables,50.73,9,0.2,2.86
+CA-2019-553515,4/17/2018,4/20/2018,Same Day,ID-51552,Corporate,United States,Houston,California,East,Office Supplies,Phones,272.97,2,0.2,56.91
+CA-2018-983533,10/24/2018,10/29/2018,Standard Class,ID-46231,Consumer,United States,New York,California,West,Office Supplies,Chairs,550.57,6,0.1,84.26
+CA-2018-417420,10/31/2019,11/7/2019,First Class,ID-34987,Home Office,United States,Phoenix,Texas,Central,Furniture,Binders,289.03,6,0.3,56.31
+CA-2016-594932,9/1/2019,9/6/2019,Second Class,ID-62101,Consumer,United States,Los Angeles,Texas,South,Furniture,Tables,591.13,9,0.3,78.21
+CA-2019-457207,6/24/2016,6/27/2016,Second Class,ID-66202,Home Office,United States,Houston,Texas,South,Office Supplies,Tables,39.8,3,0.1,0.8
+CA-2016-624078,9/11/2019,9/18/2019,First Class,ID-54541,Consumer,United States,Houston,Florida,South,Technology,Tables,306.64,10,0,38.95
+CA-2016-245893,11/10/2016,11/13/2016,Same Day,ID-59980,Consumer,United States,Houston,California,South,Furniture,Accessories,117.55,10,0.3,12.8
+CA-2018-197770,12/17/2016,12/18/2016,Second Class,ID-14202,Home Office,United States,Phoenix,Florida,West,Furniture,Phones,78.8,7,0.2,-1.11
+CA-2018-791609,12/9/2018,12/10/2018,Same Day,ID-17530,Corporate,United States,Phoenix,California,East,Office Supplies,Accessories,397.19,2,0.1,40.96
+CA-2019-879241,5/20/2016,5/24/2016,Second Class,ID-27030,Consumer,United States,Chicago,Florida,South,Furniture,Tables,579.34,5,0.1,52.66
+CA-2019-388820,2/17/2017,2/18/2017,Second Class,ID-68422,Consumer,United States,Houston,Illinois,East,Technology,Binders,911.2,8,0.3,54.27
+CA-2016-873105,7/5/2016,7/8/2016,Same Day,ID-55453,Home Office,United States,Chicago,Florida,East,Office Supplies,Phones,187.78,10,0.3,10.93
+CA-2017-832453,3/10/2019,3/11/2019,Same Day,ID-15723,Consumer,United States,Los Angeles,New York,Central,Technology,Chairs,701.06,4,0.3,31.66
+CA-2016-486643,6/5/2016,6/12/2016,Standard Class,ID-76112,Corporate,United States,Houston,Florida,East,Office Supplies,Phones,511,8,0,-36.14
+CA-2019-499670,12/4/2017,12/10/2017,Same Day,ID-35480,Corporate,United States,New York,California,Central,Furniture,Phones,333.84,8,0.3,19.76
+CA-2016-675069,9/7/2019,9/9/2019,Same Day,ID-28383,Corporate,United States,Chicago,Texas,East,Furniture,Tables,109.51,5,0,12.47
+CA-2019-276636,6/7/2016,6/13/2016,Standard Class,ID-98785,Corporate,United States,Los Angeles,Florida,Central,Furniture,Phones,717.27,9,0.1,49.59
+CA-2016-977135,7/24/2019,7/31/2019,Standard Class,ID-61199,Home Office,United States,Chicago,Florida,West,Technology,Chairs,58.18,7,0.1,14.22
+CA-2018-350127,2/13/2017,2/14/2017,Standard Class,ID-65270,Consumer,United States,New York,New York,East,Technology,Chairs,228.36,2,0.1,38.97
+CA-2016-535872,11/15/2018,11/16/2018,First Class,ID-52294,Home Office,United States,Los Angeles,Illinois,East,Technology,Accessories,939.53,2,0.1,-12.25
+CA-2018-439075,12/21/2016,12/22/2016,Same Day,ID-95720,Corporate,United States,New York,Florida,East,Office Supplies,Phones,75.36,5,0.2,-4.97
+CA-2017-531066,9/9/2017,9/16/2017,Same Day,ID-23344,Home Office,United States,Phoenix,Illinois,East,Office Supplies,Chairs,603.87,7,0.1,17.84
+CA-2018-992919,9/26/2019,9/30/2019,Standard Class,ID-53922,Consumer,United States,Phoenix,Illinois,South,Office Supplies,Tables,644.19,4,0,-4.48
+CA-2016-423851,4/29/2017,5/5/2017,Same Day,ID-41922,Home Office,United States,New York,California,East,Office Supplies,Accessories,303.65,3,0.3,-3.88
+CA-2016-349628,5/9/2019,5/13/2019,First Class,ID-27598,Corporate,United States,Chicago,California,South,Technology,Binders,753.05,4,0.2,22.35
+CA-2017-665509,4/20/2016,4/26/2016,Second Class,ID-39156,Home Office,United States,Houston,Illinois,Central,Furniture,Accessories,633.48,2,0.3,-31.93
+CA-2017-154638,7/23/2019,7/25/2019,Second Class,ID-26457,Consumer,United States,Los Angeles,Illinois,East,Furniture,Tables,87.38,8,0.2,-2.4
+CA-2017-356822,5/18/2018,5/20/2018,Second Class,ID-49728,Corporate,United States,Phoenix,Florida,East,Office Supplies,Accessories,89.22,6,0.3,3.19
+CA-2019-562816,5/15/2018,5/20/2018,Same Day,ID-30431,Corporate,United States,New York,Florida,South,Furniture,Binders,599.23,3,0.1,1.57
+CA-2019-420704,7/17/2018,7/20/2018,Same Day,ID-83681,Home Office,United States,Houston,California,Central,Furniture,Accessories,203.76,4,0,-19.33
+CA-2018-615326,4/8/2018,4/12/2018,Same Day,ID-58908,Corporate,United States,Houston,New York,West,Office Supplies,Chairs,992.55,2,0.3,189.57
+CA-2017-303663,6/12/2018,6/15/2018,First Class,ID-76795,Home Office,United States,Houston,New York,West,Technology,Accessories,927.25,4,0.1,76.02
+CA-2018-761601,12/18/2019,12/24/2019,Standard Class,ID-97251,Home Office,United States,Los Angeles,New York,South,Technology,Phones,261.75,10,0.1,-22.39
+CA-2016-775699,12/28/2019,1/1/2020,Same Day,ID-86829,Consumer,United States,Phoenix,Texas,South,Furniture,Accessories,260.34,5,0.3,24.5
+CA-2019-889013,7/1/2016,7/2/2016,First Class,ID-28705,Corporate,United States,Los Angeles,Florida,Central,Furniture,Phones,818.23,1,0,-58.96
+CA-2019-650462,5/3/2018,5/9/2018,First Class,ID-66485,Consumer,United States,Los Angeles,New York,East,Technology,Phones,206.04,3,0,16.54
+CA-2017-294655,2/15/2017,2/16/2017,Second Class,ID-35150,Corporate,United States,Houston,Florida,West,Technology,Phones,89.01,2,0.3,-3.12
+CA-2016-458772,3/1/2016,3/6/2016,Second Class,ID-72638,Corporate,United States,New York,California,West,Office Supplies,Chairs,668.67,1,0,-10.41
+CA-2016-493914,5/19/2019,5/24/2019,First Class,ID-73691,Corporate,United States,Chicago,Illinois,South,Office Supplies,Binders,685.04,6,0.2,124.26
+CA-2018-797385,3/27/2018,3/31/2018,Standard Class,ID-56665,Corporate,United States,New York,California,South,Technology,Accessories,727.97,3,0,102.47
+CA-2018-833232,5/24/2017,5/27/2017,Same Day,ID-91048,Home Office,United States,Houston,Illinois,South,Technology,Phones,13.1,6,0,2.01
+CA-2016-946785,10/28/2017,11/3/2017,Same Day,ID-40612,Home Office,United States,Houston,Florida,West,Office Supplies,Accessories,939.69,8,0,182.03
+CA-2018-736667,2/3/2017,2/9/2017,Second Class,ID-78164,Home Office,United States,Phoenix,California,East,Office Supplies,Chairs,308.33,9,0.3,-7.07
+CA-2019-221297,9/14/2018,9/20/2018,Second Class,ID-41897,Consumer,United States,Los Angeles,California,West,Office Supplies,Chairs,168.63,6,0.3,24.38
+CA-2017-854109,6/11/2017,6/17/2017,Same Day,ID-97897,Consumer,United States,Los Angeles,Illinois,South,Furniture,Binders,873.22,10,0,137.61
+CA-2019-852293,2/20/2018,2/26/2018,Same Day,ID-40587,Consumer,United States,Chicago,California,Central,Furniture,Chairs,98.25,10,0.1,17.49
+CA-2016-700665,1/23/2018,1/25/2018,First Class,ID-59832,Home Office,United States,New York,New York,West,Technology,Tables,197.96,7,0.3,3.86
+CA-2018-936258,10/23/2019,10/30/2019,Second Class,ID-78124,Home Office,United States,Phoenix,Illinois,East,Furniture,Accessories,19.1,8,0.2,-0.64
+CA-2018-977885,3/24/2017,3/28/2017,Same Day,ID-29323,Home Office,United States,Chicago,Texas,West,Technology,Binders,315.8,2,0.2,75.47
+CA-2019-761732,3/17/2017,3/21/2017,First Class,ID-59375,Consumer,United States,Chicago,Texas,East,Technology,Phones,703.4,1,0.1,153.65
+CA-2019-413630,9/12/2019,9/19/2019,Second Class,ID-12826,Home Office,United States,Houston,New York,South,Technology,Accessories,990.41,7,0.3,-49.41
+CA-2018-396080,11/27/2019,11/29/2019,Same Day,ID-22755,Consumer,United States,Chicago,Illinois,West,Technology,Binders,462.96,3,0.1,31.98
+CA-2019-405221,10/23/2016,10/25/2016,Second Class,ID-35644,Home Office,United States,New York,New York,West,Technology,Phones,382.79,7,0.1,93.15
+CA-2016-472856,8/28/2018,8/30/2018,Standard Class,ID-25380,Home Office,United States,Chicago,Illinois,South,Furniture,Accessories,252.55,2,0.1,13.33
+CA-2018-821403,5/5/2019,5/7/2019,Same Day,ID-97914,Home Office,United States,New York,Florida,South,Office Supplies,Accessories,373.65,2,0,-25.01
+CA-2019-772566,10/1/2019,10/6/2019,Second Class,ID-13018,Home Office,United States,Phoenix,Illinois,South,Office Supplies,Chairs,796.4,3,0.3,52.22
+CA-2019-412856,3/16/2019,3/18/2019,Standard Class,ID-52628,Consumer,United States,Phoenix,Texas,South,Technology,Chairs,399.86,9,0.3,-20.83
+CA-2016-890110,2/28/2017,3/6/2017,Standard Class,ID-33680,Home Office,United States,Los Angeles,California,South,Office Supplies,Chairs,48.75,10,0.1,7.07
+CA-2016-689820,6/9/2017,6/16/2017,Standard Class,ID-21090,Consumer,United States,Phoenix,New York,Central,Technology,Phones,428.82,1,0.1,7.81
+CA-2018-791176,12/29/2018,1/2/2019,Second Class,ID-85637,Corporate,United States,Chicago,Illinois,Central,Technology,Tables,515.48,2,0,-2.66
+CA-2017-248548,9/5/2017,9/12/2017,Second Class,ID-27590,Home Office,United States,Phoenix,Texas,Central,Office Supplies,Phones,731.81,7,0,87.77
+CA-2018-500327,8/23/2019,8/25/2019,Same Day,ID-69777,Consumer,United States,Chicago,Florida,East,Technology,Phones,79.85,5,0.1,13.35
+CA-2017-540073,11/10/2016,11/13/2016,Same Day,ID-59668,Consumer,United States,Phoenix,Texas,West,Office Supplies,Chairs,536.16,9,0.3,-27.63
+CA-2016-480443,11/14/2017,11/21/2017,First Class,ID-29179,Consumer,United States,Chicago,California,West,Office Supplies,Phones,384.85,2,0,-11.43
+CA-2018-717429,9/29/2018,9/30/2018,First Class,ID-84993,Corporate,United States,Phoenix,New York,West,Furniture,Phones,324.82,7,0.1,11.13
+CA-2019-600025,4/28/2019,4/30/2019,First Class,ID-11244,Home Office,United States,Phoenix,Texas,East,Furniture,Accessories,571.89,5,0,152.91
+CA-2018-841870,5/25/2017,5/31/2017,Same Day,ID-70003,Consumer,United States,Houston,New York,South,Technology,Binders,283.06,7,0.1,5.62
+CA-2016-420509,4/12/2018,4/19/2018,First Class,ID-21814,Home Office,United States,New York,California,East,Furniture,Phones,579.56,2,0.2,56.41
+CA-2019-947613,1/22/2016,1/26/2016,Second Class,ID-72869,Corporate,United States,Phoenix,Illinois,West,Office Supplies,Chairs,620.12,1,0.3,78.59
+CA-2018-356089,9/16/2019,9/23/2019,Standard Class,ID-89609,Corporate,United States,Los Angeles,Illinois,East,Furniture,Chairs,373.38,3,0.2,83.93
+CA-2019-619577,2/15/2018,2/17/2018,First Class,ID-24841,Corporate,United States,Los Angeles,Illinois,West,Office Supplies,Binders,488.29,5,0.1,-43.55
+CA-2019-328026,9/16/2017,9/22/2017,Standard Class,ID-70693,Home Office,United States,Houston,California,Central,Furniture,Tables,465.75,5,0.2,-21.29
+CA-2018-857526,1/16/2017,1/20/2017,First Class,ID-11161,Consumer,United States,Houston,Florida,East,Furniture,Tables,519.18,3,0.3,-18.34
+CA-2019-107246,11/14/2016,11/21/2016,First Class,ID-39634,Corporate,United States,Houston,New York,Central,Office Supplies,Accessories,893.27,9,0.2,-40.39
+CA-2019-788159,6/18/2018,6/20/2018,Second Class,ID-56365,Home Office,United States,Houston,California,Central,Technology,Phones,119.56,5,0,-5.56
+CA-2019-880060,11/9/2017,11/10/2017,Second Class,ID-97320,Consumer,United States,Houston,New York,West,Office Supplies,Accessories,554.62,3,0.2,88.93
+CA-2019-626236,3/7/2018,3/9/2018,Standard Class,ID-24139,Consumer,United States,Los Angeles,Texas,Central,Technology,Chairs,769.71,4,0,131.87
+CA-2018-550536,5/7/2019,5/13/2019,Standard Class,ID-66928,Corporate,United States,Chicago,New York,South,Furniture,Accessories,255.27,3,0.1,-0.05
+CA-2016-376331,12/6/2019,12/8/2019,Same Day,ID-36006,Corporate,United States,New York,Illinois,East,Furniture,Tables,632.62,3,0.1,-29.5
+CA-2019-140230,7/14/2017,7/16/2017,Second Class,ID-65876,Consumer,United States,Phoenix,Texas,West,Furniture,Accessories,413.22,5,0.1,-4.2
+CA-2019-602472,5/5/2016,5/10/2016,Same Day,ID-94393,Consumer,United States,Chicago,California,Central,Office Supplies,Binders,943.57,7,0.1,23.72
+CA-2016-290580,3/24/2016,3/25/2016,Standard Class,ID-96563,Home Office,United States,Chicago,Texas,Central,Office Supplies,Binders,909.4,2,0.3,-16.59
+CA-2019-481242,11/15/2017,11/18/2017,Standard Class,ID-22699,Home Office,United States,New York,Illinois,East,Office Supplies,Binders,743.88,6,0.2,-2.8
+CA-2018-320235,4/11/2019,4/15/2019,Standard Class,ID-23941,Consumer,United States,Phoenix,California,West,Technology,Phones,201,8,0,-14.08
+CA-2018-416120,8/29/2018,9/5/2018,Second Class,ID-79934,Home Office,United States,Los Angeles,California,East,Furniture,Accessories,554.99,5,0.2,114.53
+CA-2019-760460,8/28/2016,9/1/2016,Standard Class,ID-73284,Corporate,United States,Phoenix,Illinois,West,Furniture,Tables,281.41,3,0.2,-18.42
+CA-2016-932978,11/21/2019,11/23/2019,Same Day,ID-74884,Home Office,United States,Phoenix,Illinois,West,Furniture,Accessories,753.22,7,0.3,31.81
+CA-2018-316976,1/11/2017,1/12/2017,Second Class,ID-84959,Consumer,United States,Phoenix,California,South,Technology,Tables,266.25,4,0.2,39.04
+CA-2016-279420,4/3/2017,4/4/2017,Second Class,ID-48252,Consumer,United States,Los Angeles,New York,East,Office Supplies,Chairs,645.99,4,0.1,66.18
+CA-2016-780154,12/12/2017,12/18/2017,First Class,ID-52540,Consumer,United States,Phoenix,New York,East,Office Supplies,Tables,301.95,1,0,69.32
+CA-2017-865960,7/26/2017,7/28/2017,First Class,ID-12049,Home Office,United States,Phoenix,California,South,Technology,Binders,871.33,10,0.1,177.81
+CA-2017-440014,7/4/2017,7/6/2017,Same Day,ID-30400,Corporate,United States,Los Angeles,Florida,Central,Furniture,Accessories,102.75,3,0.3,-1.87
+CA-2017-298033,3/12/2019,3/16/2019,Second Class,ID-94877,Corporate,United States,New York,New York,East,Furniture,Accessories,690.49,4,0,-29.41
+CA-2019-357167,7/20/2018,7/26/2018,Same Day,ID-23137,Home Office,United States,Phoenix,Texas,West,Technology,Chairs,384.1,1,0,88.58
+CA-2016-238599,5/23/2017,5/30/2017,Standard Class,ID-45082,Consumer,United States,Phoenix,California,West,Furniture,Tables,738.77,6,0,-14.09
+CA-2019-896573,2/26/2019,3/2/2019,Second Class,ID-50289,Corporate,United States,Houston,Texas,East,Furniture,Tables,695.12,9,0,-63.62
+CA-2016-207809,1/20/2019,1/23/2019,Standard Class,ID-77048,Corporate,United States,Los Angeles,California,East,Furniture,Phones,432.86,3,0.2,56.15
+CA-2017-817663,2/26/2018,3/4/2018,Standard Class,ID-74463,Consumer,United States,New York,Texas,West,Office Supplies,Binders,85.53,6,0,3.78
+CA-2016-145452,5/23/2019,5/25/2019,Second Class,ID-66181,Home Office,United States,Chicago,Illinois,East,Technology,Accessories,158.72,5,0.2,5
+CA-2016-384261,10/19/2018,10/25/2018,First Class,ID-44786,Home Office,United States,New York,California,East,Technology,Phones,327.05,7,0.3,43.16
+CA-2019-954222,5/17/2016,5/18/2016,Same Day,ID-46500,Consumer,United States,New York,New York,East,Furniture,Accessories,359.08,8,0.3,23.25
+CA-2019-730973,7/27/2019,7/30/2019,Second Class,ID-95715,Consumer,United States,Houston,Florida,South,Technology,Tables,497.68,9,0.1,24.12
+CA-2019-652542,3/29/2019,4/5/2019,Second Class,ID-21436,Consumer,United States,Chicago,California,East,Furniture,Binders,562.79,3,0,-42.87
+CA-2018-478387,10/12/2016,10/15/2016,Same Day,ID-28892,Home Office,United States,Houston,Texas,East,Furniture,Chairs,749.53,2,0.1,34.39
+CA-2016-829937,5/19/2018,5/22/2018,Standard Class,ID-23894,Home Office,United States,Phoenix,California,South,Technology,Phones,39.88,6,0.1,-2.46
+CA-2016-113083,3/11/2019,3/18/2019,Same Day,ID-29623,Consumer,United States,Houston,Texas,Central,Office Supplies,Accessories,725.33,8,0,10.67
+CA-2017-162915,8/8/2019,8/9/2019,Second Class,ID-75967,Consumer,United States,New York,Florida,South,Technology,Accessories,558.61,5,0.2,82.11
+CA-2019-264417,7/10/2017,7/11/2017,Same Day,ID-26401,Home Office,United States,Los Angeles,Florida,West,Furniture,Accessories,191.86,9,0,43.48
+CA-2019-600607,10/3/2017,10/9/2017,Same Day,ID-59868,Consumer,United States,New York,New York,South,Furniture,Binders,117.32,2,0.2,13.26
+CA-2018-129411,5/5/2017,5/8/2017,Second Class,ID-80984,Consumer,United States,New York,Texas,West,Office Supplies,Phones,556.17,1,0.1,3.84
+CA-2016-691123,9/17/2018,9/18/2018,Standard Class,ID-51232,Consumer,United States,Chicago,California,Central,Office Supplies,Accessories,505.21,6,0.3,67.29
+CA-2017-836789,10/13/2019,10/14/2019,First Class,ID-63383,Home Office,United States,Phoenix,California,East,Furniture,Tables,798.11,8,0,12.81
+CA-2017-815520,8/6/2018,8/7/2018,Standard Class,ID-40352,Consumer,United States,Los Angeles,Texas,Central,Office Supplies,Phones,345.63,6,0.3,-20.32
+CA-2019-350725,3/3/2017,3/8/2017,Standard Class,ID-29975,Home Office,United States,Houston,California,West,Furniture,Binders,551.66,2,0.3,-24.08
+CA-2018-277961,8/28/2017,8/30/2017,Standard Class,ID-46715,Home Office,United States,Chicago,New York,West,Furniture,Phones,713.55,8,0.2,168.09
+CA-2018-900216,6/24/2018,6/30/2018,Second Class,ID-26248,Home Office,United States,Houston,California,Central,Office Supplies,Accessories,414.94,10,0.1,28.51
+CA-2018-491835,6/19/2016,6/25/2016,Same Day,ID-76314,Corporate,United States,Chicago,California,West,Technology,Phones,702.75,9,0,-26.83
+CA-2016-404779,2/8/2018,2/10/2018,Same Day,ID-19565,Consumer,United States,Houston,Florida,West,Office Supplies,Accessories,473.8,9,0.3,-18.69
+CA-2017-867324,8/9/2016,8/13/2016,Same Day,ID-36145,Corporate,United States,Chicago,California,Central,Office Supplies,Tables,491.43,8,0,5.58
+CA-2016-671559,11/14/2016,11/18/2016,Second Class,ID-93914,Consumer,United States,Chicago,Illinois,West,Technology,Accessories,71.78,6,0.3,14.64
+CA-2017-156704,3/9/2017,3/16/2017,Standard Class,ID-99610,Corporate,United States,Chicago,New York,East,Furniture,Phones,78.57,7,0,1.52
+CA-2019-540110,12/10/2018,12/12/2018,First Class,ID-34127,Consumer,United States,New York,Florida,Central,Office Supplies,Phones,206.62,7,0.3,13.05
+CA-2017-830532,6/13/2018,6/16/2018,Same Day,ID-11301,Home Office,United States,Phoenix,Texas,West,Technology,Tables,620.35,6,0.2,-46.81
+CA-2019-254650,10/19/2018,10/26/2018,First Class,ID-24890,Home Office,United States,Houston,New York,West,Office Supplies,Phones,637.95,10,0,-54.48
+CA-2017-540586,11/27/2019,12/2/2019,Second Class,ID-88766,Corporate,United States,Los Angeles,New York,East,Furniture,Tables,955.55,6,0.2,-71.49
+CA-2018-626474,9/12/2016,9/18/2016,Same Day,ID-95054,Corporate,United States,Houston,Florida,Central,Office Supplies,Tables,431.59,6,0,116.76
+CA-2019-549192,2/3/2018,2/5/2018,Second Class,ID-81141,Corporate,United States,Houston,New York,South,Technology,Binders,705.07,2,0,156.79
+CA-2016-193992,8/23/2019,8/24/2019,Same Day,ID-23588,Corporate,United States,Phoenix,Illinois,West,Technology,Accessories,508.33,1,0.2,97.88
+CA-2017-333705,7/20/2018,7/25/2018,Same Day,ID-25007,Consumer,United States,Houston,California,Central,Office Supplies,Accessories,908.91,7,0,250.72
+CA-2017-632216,8/3/2017,8/6/2017,First Class,ID-50291,Corporate,United States,Los Angeles,California,South,Furniture,Chairs,35.98,6,0.2,0.98
+CA-2019-353578,2/12/2019,2/16/2019,Second Class,ID-90775,Home Office,United States,Houston,California,South,Furniture,Accessories,977.58,3,0.3,179.06
+CA-2017-558648,4/18/2017,4/19/2017,Second Class,ID-76093,Consumer,United States,Phoenix,Florida,Central,Technology,Phones,949.21,4,0,-59.51
+CA-2019-112098,7/11/2019,7/18/2019,Second Class,ID-13646,Home Office,United States,Phoenix,California,South,Furniture,Phones,983.58,6,0.1,-3.64
+CA-2017-411345,1/31/2017,2/5/2017,Second Class,ID-59559,Corporate,United States,New York,New York,West,Furniture,Chairs,642,10,0,-35.71
+CA-2016-212278,10/17/2016,10/20/2016,First Class,ID-33675,Consumer,United States,New York,Florida,Central,Furniture,Accessories,109.67,1,0.3,-5.42
+CA-2016-320511,11/8/2019,11/12/2019,Same Day,ID-51102,Home Office,United States,Houston,Texas,East,Office Supplies,Chairs,904.6,10,0,-48.05
+CA-2018-463629,9/18/2018,9/23/2018,Standard Class,ID-30760,Home Office,United States,Chicago,California,East,Technology,Chairs,540.59,9,0.1,-6.56
+CA-2018-220364,3/20/2017,3/21/2017,First Class,ID-28161,Consumer,United States,New York,Texas,Central,Office Supplies,Accessories,207.25,2,0.2,30.38
+CA-2018-589730,10/12/2018,10/16/2018,Same Day,ID-35304,Corporate,United States,Los Angeles,Texas,Central,Office Supplies,Chairs,587.81,10,0.2,-15.87
+CA-2017-857135,9/26/2018,9/30/2018,Same Day,ID-65540,Home Office,United States,Chicago,New York,West,Technology,Accessories,435.02,10,0.2,17.26
+CA-2016-571233,12/8/2016,12/9/2016,First Class,ID-86922,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Chairs,123.5,6,0.3,18.7
+CA-2018-357234,5/28/2016,5/30/2016,First Class,ID-58754,Consumer,United States,Chicago,California,West,Office Supplies,Chairs,719.63,4,0.3,63.97
+CA-2018-343949,2/24/2019,2/25/2019,Same Day,ID-47173,Home Office,United States,Los Angeles,Illinois,East,Furniture,Tables,285.27,10,0,36.97
+CA-2019-815267,6/10/2018,6/13/2018,First Class,ID-35971,Consumer,United States,New York,Florida,South,Furniture,Binders,427.02,2,0.3,-9.43
+CA-2018-719887,2/23/2018,2/25/2018,Standard Class,ID-47360,Consumer,United States,Phoenix,California,South,Office Supplies,Phones,843.23,7,0,217.83
+CA-2016-453778,8/13/2019,8/14/2019,Standard Class,ID-71589,Consumer,United States,Houston,New York,Central,Office Supplies,Binders,406.34,9,0.2,31.7
+CA-2016-512433,9/3/2017,9/9/2017,Same Day,ID-74662,Home Office,United States,New York,New York,West,Furniture,Phones,57.36,1,0.1,-2.99
+CA-2018-820999,6/11/2018,6/13/2018,Second Class,ID-21536,Consumer,United States,Chicago,Illinois,West,Technology,Chairs,267.09,1,0,-21.58
+CA-2018-178687,6/24/2017,6/27/2017,Same Day,ID-45377,Home Office,United States,Los Angeles,Texas,South,Furniture,Phones,326.14,3,0.3,35.33
+CA-2016-647108,12/16/2018,12/18/2018,Same Day,ID-96673,Corporate,United States,Chicago,New York,South,Furniture,Chairs,271.17,5,0,11.17
+CA-2017-791515,8/18/2019,8/24/2019,Second Class,ID-20225,Consumer,United States,Houston,California,East,Furniture,Phones,473.47,7,0.1,40.51
+CA-2018-318797,4/24/2019,5/1/2019,First Class,ID-50871,Home Office,United States,Houston,Texas,West,Furniture,Phones,917.53,7,0.3,158.73
+CA-2017-917911,3/30/2018,4/1/2018,Standard Class,ID-46416,Corporate,United States,Los Angeles,New York,West,Furniture,Accessories,877.43,2,0.1,-73.73
+CA-2019-296114,6/30/2017,7/1/2017,Same Day,ID-96754,Home Office,United States,Houston,New York,Central,Furniture,Tables,93.23,7,0.1,-3.34
+CA-2019-632599,11/14/2017,11/15/2017,Same Day,ID-45728,Corporate,United States,New York,California,South,Technology,Accessories,201.99,4,0.3,-4.15
+CA-2018-655286,5/29/2019,6/2/2019,Same Day,ID-24311,Home Office,United States,New York,Texas,West,Furniture,Chairs,62.61,1,0.2,-0.23
+CA-2016-388840,4/8/2017,4/13/2017,Same Day,ID-61368,Corporate,United States,New York,Texas,Central,Office Supplies,Phones,179.32,4,0.2,22.2
+CA-2018-869531,1/7/2016,1/8/2016,Second Class,ID-75960,Home Office,United States,Phoenix,Florida,Central,Technology,Phones,178.53,2,0.1,-4.03
+CA-2019-248723,1/27/2016,2/2/2016,Same Day,ID-66088,Corporate,United States,New York,Texas,Central,Furniture,Phones,682.41,1,0.2,157.13
+CA-2016-612027,5/21/2017,5/25/2017,Standard Class,ID-15921,Consumer,United States,Phoenix,New York,East,Technology,Tables,175.63,3,0,-10.54
+CA-2018-574602,10/1/2018,10/7/2018,First Class,ID-81527,Corporate,United States,Houston,New York,Central,Office Supplies,Chairs,829.47,5,0.2,170.24
+CA-2019-218238,7/6/2017,7/12/2017,Standard Class,ID-29385,Corporate,United States,Los Angeles,Texas,Central,Office Supplies,Chairs,251.92,7,0.2,-3.52
+CA-2016-303258,2/12/2018,2/18/2018,Standard Class,ID-45903,Home Office,United States,Phoenix,Florida,East,Office Supplies,Binders,889.11,7,0.3,173.09
+CA-2018-424348,1/25/2017,1/26/2017,First Class,ID-90264,Consumer,United States,Houston,Florida,Central,Office Supplies,Chairs,969.78,8,0.1,75.52
+CA-2017-648600,8/16/2017,8/21/2017,Second Class,ID-49799,Corporate,United States,Chicago,California,Central,Furniture,Accessories,50.54,5,0,-3.98
+CA-2018-105337,5/31/2018,6/3/2018,Standard Class,ID-16540,Corporate,United States,Los Angeles,New York,Central,Technology,Tables,163.49,2,0.2,-5.62
+CA-2017-553038,4/13/2019,4/14/2019,First Class,ID-38686,Consumer,United States,Houston,New York,East,Technology,Accessories,428.34,2,0.2,91.86
+CA-2018-281720,2/28/2019,3/4/2019,First Class,ID-85781,Consumer,United States,Los Angeles,New York,East,Office Supplies,Tables,207.53,5,0,3.93
+CA-2019-672344,1/10/2017,1/14/2017,Same Day,ID-22588,Consumer,United States,Phoenix,Florida,Central,Technology,Binders,473.7,7,0.3,22.62
+CA-2019-583691,2/26/2016,3/2/2016,Standard Class,ID-65170,Consumer,United States,Los Angeles,Illinois,Central,Furniture,Tables,517.08,3,0.2,-32.51
+CA-2019-232053,4/5/2018,4/11/2018,Standard Class,ID-70661,Home Office,United States,Houston,California,West,Furniture,Binders,831.6,2,0.2,91.63
+CA-2018-692910,9/13/2018,9/19/2018,First Class,ID-17977,Consumer,United States,Phoenix,Illinois,West,Technology,Phones,521.1,9,0.3,-16.57
+CA-2017-415508,7/10/2019,7/13/2019,Standard Class,ID-73564,Home Office,United States,Los Angeles,California,West,Furniture,Phones,607.75,2,0,-0.68
+CA-2016-596754,2/20/2016,2/27/2016,Same Day,ID-61211,Consumer,United States,New York,New York,South,Office Supplies,Phones,822.07,9,0.2,150.39
+CA-2019-790130,6/17/2019,6/18/2019,Same Day,ID-29168,Home Office,United States,New York,Texas,East,Technology,Phones,179.07,9,0.1,14.58
+CA-2018-403509,9/29/2019,9/30/2019,Same Day,ID-58147,Home Office,United States,Chicago,Florida,South,Technology,Chairs,469.32,7,0.1,-37.51
+CA-2019-225961,3/1/2019,3/5/2019,Standard Class,ID-86092,Corporate,United States,New York,Illinois,South,Furniture,Binders,963.17,8,0.3,7.26
+CA-2017-475125,10/22/2018,10/29/2018,Second Class,ID-55722,Home Office,United States,Phoenix,Florida,West,Furniture,Phones,358.35,10,0.2,24.02
+CA-2017-391860,9/10/2019,9/13/2019,Same Day,ID-18940,Home Office,United States,Houston,Florida,South,Technology,Phones,580.28,9,0.2,-22.39
+CA-2018-717456,4/4/2019,4/7/2019,Same Day,ID-18856,Consumer,United States,New York,Texas,East,Furniture,Chairs,504.44,8,0.2,82.31
+CA-2017-210553,12/22/2016,12/28/2016,Same Day,ID-65057,Consumer,United States,New York,Illinois,Central,Furniture,Chairs,848.33,2,0.3,121.94
+CA-2016-282522,10/19/2017,10/20/2017,Same Day,ID-59496,Consumer,United States,Phoenix,Illinois,East,Furniture,Binders,496.19,5,0.1,-8.72
+CA-2017-555148,12/18/2018,12/25/2018,Second Class,ID-21274,Home Office,United States,New York,California,East,Furniture,Phones,894.36,6,0.3,79.71
+CA-2016-457261,1/14/2017,1/20/2017,Same Day,ID-34921,Consumer,United States,Phoenix,Florida,Central,Office Supplies,Tables,900.76,3,0,68.05
+CA-2019-174310,3/11/2019,3/12/2019,Second Class,ID-77796,Corporate,United States,New York,California,South,Furniture,Chairs,605.47,6,0,-6.29
+CA-2018-968376,5/29/2017,6/2/2017,First Class,ID-18906,Consumer,United States,Chicago,California,East,Technology,Tables,505.05,7,0,59.79
+CA-2016-711081,8/22/2018,8/25/2018,Standard Class,ID-14230,Corporate,United States,Houston,New York,East,Office Supplies,Chairs,147.9,9,0.2,31.91
+CA-2016-347062,10/7/2018,10/8/2018,Standard Class,ID-55330,Consumer,United States,Houston,Illinois,West,Technology,Accessories,947.13,5,0,-55.29
+CA-2019-632261,4/6/2017,4/12/2017,First Class,ID-66559,Corporate,United States,Chicago,Texas,West,Furniture,Chairs,775.88,4,0.3,93.84
+CA-2016-679334,9/14/2018,9/15/2018,Same Day,ID-59444,Home Office,United States,Los Angeles,Florida,South,Technology,Phones,124.43,2,0.2,4.05
+CA-2018-557729,4/28/2016,4/30/2016,Second Class,ID-22057,Home Office,United States,New York,Texas,South,Technology,Tables,572.37,1,0.1,115.93
+CA-2016-159406,9/16/2016,9/20/2016,Second Class,ID-47040,Consumer,United States,Chicago,New York,East,Office Supplies,Phones,610.06,8,0,99.22
+CA-2016-362352,1/18/2019,1/20/2019,Same Day,ID-56787,Consumer,United States,Houston,New York,Central,Technology,Binders,870.28,4,0.2,19.18
+CA-2016-156620,12/10/2017,12/14/2017,Same Day,ID-46671,Consumer,United States,Los Angeles,Texas,East,Office Supplies,Tables,218.66,6,0.1,-16.86
+CA-2017-832264,6/20/2018,6/26/2018,Same Day,ID-24973,Consumer,United States,Houston,California,Central,Office Supplies,Tables,390.33,2,0,4.54
+CA-2019-619419,2/8/2016,2/15/2016,Same Day,ID-60418,Corporate,United States,New York,Texas,East,Office Supplies,Phones,663.33,9,0,108.89
+CA-2016-667855,12/13/2017,12/14/2017,First Class,ID-44410,Home Office,United States,Los Angeles,California,Central,Technology,Tables,439.74,7,0,98.04
+CA-2019-856334,10/20/2019,10/23/2019,Same Day,ID-65552,Home Office,United States,Phoenix,Illinois,Central,Furniture,Accessories,472.66,4,0.1,111.91
+CA-2018-938429,10/29/2019,11/1/2019,Standard Class,ID-42759,Home Office,United States,Chicago,New York,South,Furniture,Tables,281.53,5,0.2,47.97
+CA-2016-230344,9/20/2017,9/25/2017,First Class,ID-44670,Consumer,United States,Houston,Florida,West,Office Supplies,Chairs,471.78,6,0.3,51.22
+CA-2017-528459,4/29/2016,5/4/2016,Standard Class,ID-46234,Home Office,United States,Phoenix,New York,West,Office Supplies,Phones,265.43,5,0.2,52.58
+CA-2017-338466,7/14/2019,7/16/2019,Second Class,ID-90995,Home Office,United States,New York,Texas,West,Technology,Chairs,192.41,9,0.3,17.77
+CA-2016-680290,4/11/2017,4/12/2017,First Class,ID-43743,Consumer,United States,Chicago,Illinois,West,Technology,Phones,356.23,2,0.3,-13.65
+CA-2016-348490,2/21/2017,2/24/2017,First Class,ID-99262,Corporate,United States,New York,Florida,Central,Furniture,Chairs,333.28,6,0.2,77.33
+CA-2018-593549,8/25/2017,8/30/2017,Standard Class,ID-31012,Corporate,United States,New York,New York,East,Technology,Chairs,115.17,4,0.2,9.61
+CA-2018-325306,2/14/2018,2/21/2018,Standard Class,ID-96122,Home Office,United States,Los Angeles,Florida,West,Furniture,Phones,569.75,10,0.3,46.1
+CA-2016-988767,12/16/2018,12/23/2018,Standard Class,ID-89574,Corporate,United States,Phoenix,Illinois,South,Office Supplies,Binders,203.07,10,0.2,42.96
+CA-2018-354880,1/11/2018,1/13/2018,Same Day,ID-51263,Home Office,United States,New York,Texas,South,Technology,Accessories,368.26,6,0,97.9
+CA-2019-734617,4/16/2017,4/20/2017,Same Day,ID-40115,Home Office,United States,Los Angeles,Illinois,East,Office Supplies,Tables,669.24,10,0.2,116.9
+CA-2018-429089,8/29/2016,8/30/2016,Same Day,ID-65184,Home Office,United States,Los Angeles,Illinois,South,Technology,Phones,900.87,8,0,-29.99
+CA-2019-376169,2/9/2019,2/15/2019,Same Day,ID-23237,Consumer,United States,New York,Florida,West,Technology,Phones,990.03,3,0.3,181.37
+CA-2018-233644,4/3/2018,4/9/2018,Second Class,ID-48455,Consumer,United States,Chicago,New York,West,Technology,Chairs,83.02,6,0.3,15.36
+CA-2019-876677,6/11/2018,6/14/2018,Same Day,ID-27643,Home Office,United States,Los Angeles,Illinois,West,Furniture,Chairs,597.62,6,0.3,21.65
+CA-2019-285306,11/7/2018,11/13/2018,First Class,ID-22700,Consumer,United States,Chicago,Florida,Central,Furniture,Tables,522.5,9,0.3,5.16
+CA-2019-434053,12/31/2016,1/2/2017,Standard Class,ID-37614,Corporate,United States,Phoenix,New York,Central,Furniture,Binders,291.94,2,0.2,2.23
+CA-2019-334496,12/12/2016,12/15/2016,First Class,ID-89451,Consumer,United States,Los Angeles,New York,East,Furniture,Phones,556.64,9,0.1,-44.62
+CA-2016-666052,1/6/2019,1/13/2019,Second Class,ID-10873,Corporate,United States,New York,New York,East,Office Supplies,Tables,432.24,8,0.1,90.41
+CA-2018-214939,12/17/2019,12/24/2019,Standard Class,ID-68249,Corporate,United States,Houston,New York,West,Furniture,Binders,734.32,2,0.2,130.1
+CA-2017-862693,6/1/2016,6/4/2016,Second Class,ID-76461,Corporate,United States,Chicago,Florida,West,Technology,Binders,893.35,1,0.3,-37.41
+CA-2018-299647,2/17/2019,2/23/2019,Standard Class,ID-93164,Home Office,United States,New York,Texas,East,Technology,Accessories,873.39,4,0.1,4.81
+CA-2017-608042,1/18/2017,1/24/2017,Same Day,ID-47040,Consumer,United States,Los Angeles,California,East,Furniture,Accessories,76.59,9,0.1,12.68
+CA-2016-538471,11/9/2019,11/12/2019,Same Day,ID-92709,Home Office,United States,Los Angeles,New York,South,Technology,Phones,879.11,4,0.2,117.58
+CA-2019-935448,7/14/2019,7/18/2019,First Class,ID-81226,Corporate,United States,Chicago,California,East,Furniture,Binders,425.4,8,0.2,-0.35
+CA-2019-221445,12/26/2016,12/30/2016,First Class,ID-96587,Consumer,United States,Chicago,Florida,East,Office Supplies,Accessories,605.05,4,0,9.91
+CA-2017-992325,4/17/2018,4/18/2018,First Class,ID-44289,Home Office,United States,Chicago,Florida,South,Office Supplies,Accessories,404.69,1,0.2,30.5
+CA-2017-456349,7/27/2019,8/3/2019,Standard Class,ID-50437,Corporate,United States,Houston,Texas,East,Technology,Phones,781.76,2,0.2,-30.22
+CA-2016-857311,2/13/2016,2/20/2016,Same Day,ID-21829,Home Office,United States,Chicago,New York,West,Technology,Chairs,523.46,6,0.1,138.55
+CA-2019-852689,4/14/2017,4/17/2017,Second Class,ID-59005,Corporate,United States,Houston,Texas,East,Furniture,Chairs,847.03,9,0,85.21
+CA-2019-144339,11/17/2016,11/20/2016,First Class,ID-13177,Consumer,United States,Los Angeles,California,Central,Technology,Chairs,814.87,7,0.3,-27.11
+CA-2018-189041,6/5/2016,6/6/2016,Same Day,ID-12641,Consumer,United States,Phoenix,Illinois,East,Furniture,Tables,794.69,4,0.2,135.99
+CA-2019-637243,2/17/2016,2/20/2016,First Class,ID-70149,Consumer,United States,New York,New York,South,Office Supplies,Binders,435.24,4,0.3,37.9
+CA-2019-398239,12/10/2019,12/15/2019,Second Class,ID-60123,Consumer,United States,Houston,Florida,Central,Technology,Chairs,457.75,10,0,26.98
+CA-2017-568802,1/27/2018,1/31/2018,Standard Class,ID-94255,Corporate,United States,Chicago,Texas,West,Furniture,Tables,177.56,8,0.1,-10.62
+CA-2019-746435,8/27/2018,9/1/2018,Second Class,ID-17724,Corporate,United States,Chicago,Florida,Central,Technology,Binders,835.98,1,0.2,117.44
+CA-2019-105842,7/3/2017,7/9/2017,Second Class,ID-83716,Corporate,United States,Phoenix,Florida,Central,Technology,Phones,328.62,8,0,88.23
+CA-2019-833222,6/7/2016,6/11/2016,Second Class,ID-11785,Consumer,United States,Phoenix,California,East,Furniture,Accessories,871.05,2,0,221.42
+CA-2019-279015,7/6/2019,7/13/2019,Same Day,ID-28332,Home Office,United States,Phoenix,Florida,South,Furniture,Binders,126.41,5,0.2,11.02
+CA-2018-691198,8/24/2019,8/26/2019,Second Class,ID-48036,Home Office,United States,Los Angeles,Illinois,Central,Technology,Tables,258.73,8,0.1,63.91
+CA-2017-272216,12/9/2018,12/15/2018,Same Day,ID-11287,Corporate,United States,Houston,Texas,East,Office Supplies,Chairs,993.38,1,0.2,143.51
+CA-2017-827759,7/11/2016,7/16/2016,Same Day,ID-53389,Consumer,United States,New York,Illinois,South,Technology,Phones,76.1,9,0.1,2.6
+CA-2016-301998,7/16/2017,7/19/2017,Same Day,ID-86607,Home Office,United States,Chicago,New York,South,Office Supplies,Tables,545.61,4,0,74.78
+CA-2016-866150,3/19/2017,3/22/2017,Second Class,ID-44463,Home Office,United States,New York,Texas,South,Office Supplies,Tables,774.26,10,0.2,177.56
+CA-2019-319473,12/10/2016,12/11/2016,Second Class,ID-38369,Consumer,United States,Phoenix,Texas,East,Furniture,Accessories,875.87,6,0,226.31
+CA-2016-243628,11/13/2018,11/20/2018,Same Day,ID-65758,Home Office,United States,Houston,New York,Central,Technology,Chairs,248.37,7,0.3,36.44
+CA-2019-472235,9/30/2017,10/7/2017,First Class,ID-79558,Consumer,United States,Phoenix,Texas,East,Technology,Binders,714.23,7,0.3,48.01
+CA-2018-818660,9/3/2016,9/8/2016,Same Day,ID-95471,Corporate,United States,Los Angeles,California,Central,Office Supplies,Binders,731.21,4,0.1,34.87
+CA-2017-883945,1/22/2016,1/24/2016,Same Day,ID-57315,Home Office,United States,Los Angeles,California,Central,Office Supplies,Chairs,911.93,5,0,130.14
+CA-2016-778657,7/17/2017,7/23/2017,Same Day,ID-62205,Consumer,United States,Chicago,New York,West,Technology,Chairs,864.55,8,0.3,58.17
+CA-2019-886364,8/19/2019,8/26/2019,Standard Class,ID-15006,Corporate,United States,New York,Illinois,East,Technology,Phones,872.2,3,0,59.16
+CA-2016-158770,6/27/2018,7/3/2018,Standard Class,ID-51187,Consumer,United States,Phoenix,New York,East,Technology,Tables,740.08,6,0.2,153.4
+CA-2017-715354,1/20/2018,1/25/2018,Standard Class,ID-97096,Corporate,United States,Houston,California,West,Furniture,Tables,156.04,5,0,-4.83
+CA-2016-388909,5/31/2019,6/2/2019,Same Day,ID-32671,Home Office,United States,New York,New York,Central,Technology,Binders,126.54,8,0,16
+CA-2019-192444,8/26/2016,8/27/2016,Second Class,ID-21326,Consumer,United States,Chicago,Illinois,West,Furniture,Chairs,225.35,6,0.3,-10.65
+CA-2017-422733,10/26/2019,11/1/2019,Second Class,ID-27397,Corporate,United States,New York,Florida,Central,Furniture,Binders,149.02,6,0.3,-1
+CA-2017-386050,2/12/2017,2/14/2017,First Class,ID-43994,Home Office,United States,Houston,New York,West,Office Supplies,Binders,582.91,6,0.3,94.58
+CA-2017-138515,4/13/2019,4/17/2019,Second Class,ID-80510,Home Office,United States,Los Angeles,Florida,Central,Technology,Binders,215.37,9,0.2,-10.97
+CA-2017-370756,3/22/2017,3/26/2017,First Class,ID-14121,Consumer,United States,Phoenix,Texas,South,Furniture,Accessories,590.95,6,0.3,67.56
+CA-2016-438031,12/7/2019,12/8/2019,First Class,ID-11035,Consumer,United States,Houston,Florida,Central,Office Supplies,Chairs,195.24,6,0.2,-5.45
+CA-2017-888576,2/14/2016,2/18/2016,Same Day,ID-87801,Home Office,United States,Houston,Florida,South,Furniture,Binders,726.14,10,0.2,54.04
+CA-2019-414754,3/23/2016,3/25/2016,Standard Class,ID-65179,Corporate,United States,Chicago,Illinois,South,Technology,Chairs,172.39,3,0.2,35.12
+CA-2017-695578,10/12/2016,10/14/2016,First Class,ID-17051,Consumer,United States,Chicago,Texas,Central,Office Supplies,Accessories,173.69,1,0.1,-3.1
+CA-2017-415917,9/21/2017,9/22/2017,Second Class,ID-40957,Consumer,United States,Houston,California,East,Furniture,Tables,847.21,6,0,77.04
+CA-2018-204766,8/22/2018,8/27/2018,Same Day,ID-37851,Corporate,United States,Houston,Florida,East,Furniture,Accessories,137.22,3,0.3,20.1
+CA-2018-959613,10/13/2019,10/19/2019,Same Day,ID-88241,Corporate,United States,Phoenix,California,Central,Office Supplies,Tables,36.63,10,0.1,6.83
+CA-2018-479878,11/27/2017,12/2/2017,Standard Class,ID-90028,Home Office,United States,Houston,California,East,Furniture,Accessories,196.09,4,0.2,11.63
+CA-2018-502722,9/1/2019,9/3/2019,Same Day,ID-29758,Corporate,United States,Chicago,Florida,South,Furniture,Binders,958.93,7,0.1,-29.85
+CA-2016-587506,6/18/2016,6/21/2016,Standard Class,ID-95966,Corporate,United States,New York,Texas,Central,Furniture,Tables,511.9,8,0,48.35
+CA-2019-542978,4/21/2016,4/24/2016,Same Day,ID-43901,Home Office,United States,New York,Illinois,South,Technology,Binders,783.19,6,0.2,-34.67
+CA-2017-544664,12/24/2018,12/31/2018,Same Day,ID-98436,Consumer,United States,Los Angeles,California,Central,Technology,Tables,265.26,9,0.3,13.73
+CA-2019-395398,3/22/2016,3/23/2016,Same Day,ID-70325,Corporate,United States,New York,Illinois,Central,Office Supplies,Accessories,344.09,5,0,40.29
+CA-2017-407484,12/31/2017,1/4/2018,Standard Class,ID-68559,Corporate,United States,Chicago,California,West,Office Supplies,Chairs,535.96,7,0.1,-14.43
+CA-2016-232177,10/23/2016,10/29/2016,Same Day,ID-66505,Corporate,United States,Chicago,Florida,East,Technology,Tables,573.38,1,0,17.57
+CA-2016-253878,6/1/2019,6/7/2019,Standard Class,ID-60058,Home Office,United States,New York,New York,Central,Office Supplies,Accessories,32.16,5,0,7.55
+CA-2019-222080,1/27/2017,2/1/2017,First Class,ID-49741,Home Office,United States,Phoenix,Illinois,East,Technology,Chairs,380.49,8,0.1,69.96
+CA-2019-388134,11/11/2019,11/18/2019,Second Class,ID-46287,Home Office,United States,New York,Illinois,South,Furniture,Binders,279.95,7,0.1,-23.31
+CA-2019-789137,9/22/2016,9/25/2016,First Class,ID-70613,Home Office,United States,Chicago,California,East,Furniture,Chairs,711.92,4,0,102.91
+CA-2019-716472,5/11/2018,5/17/2018,First Class,ID-80969,Corporate,United States,Houston,Illinois,West,Office Supplies,Binders,326.45,8,0.1,24.91
+CA-2019-320869,12/26/2018,1/1/2019,Second Class,ID-98209,Corporate,United States,Chicago,Florida,West,Technology,Tables,968.05,8,0.2,-51.7
+CA-2018-418801,8/20/2017,8/27/2017,First Class,ID-69178,Home Office,United States,Houston,California,East,Technology,Tables,175.07,6,0.3,8.11
+CA-2016-887887,8/4/2017,8/9/2017,Same Day,ID-40765,Corporate,United States,Phoenix,Texas,South,Technology,Chairs,106.01,4,0.1,28.32
+CA-2018-287299,11/21/2016,11/28/2016,Same Day,ID-82098,Corporate,United States,Chicago,Texas,South,Technology,Binders,326.21,6,0,54.05
+CA-2018-626704,1/1/2019,1/6/2019,Same Day,ID-39504,Corporate,United States,Houston,Florida,Central,Office Supplies,Phones,924.67,3,0.3,9.94
+CA-2018-899995,8/8/2018,8/14/2018,Second Class,ID-99568,Consumer,United States,Houston,Illinois,South,Office Supplies,Accessories,196.99,1,0.1,-7.9
+CA-2016-728692,3/14/2019,3/20/2019,Same Day,ID-12992,Corporate,United States,Phoenix,Texas,East,Technology,Accessories,687.52,6,0,135.57
+CA-2019-678874,11/13/2018,11/20/2018,Second Class,ID-31152,Corporate,United States,Chicago,Texas,East,Office Supplies,Phones,329.5,5,0,84.94
+CA-2017-705659,8/2/2018,8/6/2018,Second Class,ID-99610,Home Office,United States,Houston,Texas,East,Office Supplies,Tables,644.97,10,0.2,128.39
+CA-2017-356757,8/4/2018,8/10/2018,Standard Class,ID-10902,Home Office,United States,New York,Florida,South,Office Supplies,Chairs,785.21,5,0,146.3
+CA-2016-559822,9/11/2018,9/18/2018,Standard Class,ID-48399,Corporate,United States,New York,New York,South,Technology,Tables,632.98,8,0.3,95.25
+CA-2016-253075,6/21/2017,6/28/2017,Standard Class,ID-32145,Corporate,United States,Houston,New York,East,Furniture,Accessories,217.98,2,0.2,27.35
+CA-2016-580501,12/23/2019,12/27/2019,Second Class,ID-44078,Corporate,United States,Chicago,Florida,Central,Office Supplies,Binders,572.55,10,0,117.1
+CA-2017-647125,8/13/2017,8/14/2017,Second Class,ID-58608,Home Office,United States,Chicago,New York,Central,Technology,Phones,571.96,5,0.3,74.16
+CA-2018-261943,11/24/2019,11/26/2019,Second Class,ID-89619,Corporate,United States,Houston,New York,East,Furniture,Phones,587.4,3,0,2.21
+CA-2019-600143,6/20/2019,6/22/2019,First Class,ID-94390,Consumer,United States,Phoenix,Illinois,Central,Technology,Binders,384.2,8,0.1,85.86
+CA-2019-283906,9/18/2018,9/22/2018,Standard Class,ID-97653,Consumer,United States,Chicago,Texas,Central,Furniture,Phones,158.59,10,0,25.37
+CA-2018-623019,7/29/2018,8/3/2018,Standard Class,ID-78697,Consumer,United States,Los Angeles,New York,West,Office Supplies,Chairs,952.51,9,0,8.18
+CA-2016-936677,4/24/2016,4/28/2016,Second Class,ID-42072,Corporate,United States,Los Angeles,Texas,East,Technology,Accessories,185.66,10,0.2,17.94
+CA-2016-879207,1/24/2017,1/30/2017,Standard Class,ID-27373,Home Office,United States,Chicago,California,East,Furniture,Phones,589.82,10,0.3,35.39
+CA-2016-434347,7/22/2019,7/23/2019,Second Class,ID-72691,Consumer,United States,Houston,California,South,Furniture,Chairs,546.95,4,0.3,7.65
+CA-2016-709970,5/30/2018,6/6/2018,Standard Class,ID-68017,Home Office,United States,Los Angeles,Illinois,South,Furniture,Binders,757.01,10,0.2,58.77
+CA-2017-444603,11/4/2018,11/8/2018,First Class,ID-94578,Corporate,United States,Chicago,Illinois,East,Office Supplies,Binders,681.06,9,0.2,81.93
+CA-2016-893365,1/8/2017,1/12/2017,Standard Class,ID-51839,Home Office,United States,Houston,Florida,East,Furniture,Chairs,762.83,5,0,206.05
+CA-2019-459065,7/30/2019,8/5/2019,Second Class,ID-35374,Consumer,United States,Los Angeles,Texas,Central,Technology,Binders,326.82,9,0.3,-13.46
+CA-2018-739135,3/6/2017,3/11/2017,Second Class,ID-52436,Consumer,United States,Los Angeles,Florida,East,Furniture,Tables,665.96,6,0.3,75.24
+CA-2019-917632,7/5/2017,7/7/2017,First Class,ID-71863,Corporate,United States,Chicago,Texas,Central,Office Supplies,Binders,830.94,6,0.3,13.5
+CA-2019-899743,5/4/2018,5/5/2018,Same Day,ID-17249,Corporate,United States,Chicago,Texas,South,Office Supplies,Chairs,820.35,4,0.1,121.69
+CA-2018-409116,2/3/2018,2/4/2018,First Class,ID-66033,Corporate,United States,Chicago,Illinois,East,Furniture,Tables,507.91,5,0,-35.67
+CA-2017-441293,9/9/2018,9/15/2018,Same Day,ID-16029,Home Office,United States,Houston,Florida,East,Office Supplies,Tables,590.25,1,0,-45.78
+CA-2018-389455,1/6/2019,1/9/2019,Same Day,ID-47255,Consumer,United States,Houston,Texas,West,Office Supplies,Accessories,826.07,3,0.2,85.67
+CA-2016-559550,5/17/2017,5/20/2017,First Class,ID-82964,Home Office,United States,Chicago,California,East,Furniture,Binders,957.63,6,0.3,133.34
+CA-2017-293084,10/19/2017,10/23/2017,Second Class,ID-70398,Corporate,United States,Chicago,Texas,Central,Office Supplies,Tables,750.17,1,0.1,-35.33
+CA-2019-548088,3/22/2018,3/29/2018,Same Day,ID-16295,Home Office,United States,New York,Illinois,Central,Furniture,Tables,442.83,1,0.2,76.54
+CA-2019-396376,3/23/2019,3/26/2019,Standard Class,ID-19902,Home Office,United States,New York,Illinois,West,Technology,Phones,800.61,2,0.3,80.71
+CA-2017-888432,5/29/2016,6/5/2016,Same Day,ID-46289,Corporate,United States,Houston,Texas,Central,Furniture,Phones,651.36,6,0.3,50.65
+CA-2019-122527,4/2/2018,4/7/2018,First Class,ID-10832,Home Office,United States,Houston,California,West,Furniture,Binders,432.88,5,0.1,52.11
+CA-2018-658224,7/26/2018,8/1/2018,Second Class,ID-85292,Corporate,United States,Phoenix,Texas,East,Furniture,Phones,315.4,2,0,35.76
+CA-2016-917326,9/17/2016,9/22/2016,First Class,ID-19078,Corporate,United States,Chicago,Texas,East,Furniture,Binders,171.66,5,0.1,42.41
+CA-2017-909862,12/28/2017,12/29/2017,Second Class,ID-67624,Consumer,United States,Houston,California,South,Technology,Phones,386.61,8,0.3,16.15
+CA-2017-908435,2/18/2018,2/23/2018,Standard Class,ID-22170,Consumer,United States,Phoenix,Illinois,West,Furniture,Phones,129.15,8,0.2,20.65
+CA-2018-535293,1/26/2017,1/28/2017,Standard Class,ID-76441,Corporate,United States,Houston,New York,West,Office Supplies,Chairs,17.18,7,0.3,3.42
+CA-2016-471910,1/8/2018,1/11/2018,Standard Class,ID-66904,Home Office,United States,Chicago,Texas,West,Technology,Accessories,877.18,1,0.2,134.63
+CA-2018-147573,10/15/2016,10/22/2016,Second Class,ID-33246,Home Office,United States,New York,Texas,East,Furniture,Accessories,764.66,1,0.1,169.67
+CA-2018-489759,6/18/2019,6/22/2019,Second Class,ID-64950,Consumer,United States,Los Angeles,Illinois,East,Technology,Phones,371.42,2,0.1,-29.42
+CA-2017-420932,4/6/2018,4/12/2018,First Class,ID-44757,Home Office,United States,Chicago,California,West,Office Supplies,Chairs,889.93,1,0.1,212.59
+CA-2016-665680,2/11/2018,2/18/2018,Second Class,ID-30731,Consumer,United States,New York,New York,East,Furniture,Accessories,988.31,2,0.3,59.34
+CA-2019-997728,1/4/2019,1/8/2019,Second Class,ID-89071,Home Office,United States,New York,New York,South,Office Supplies,Binders,136.92,9,0.2,30.97
+CA-2016-600998,10/6/2018,10/12/2018,Second Class,ID-26493,Consumer,United States,Phoenix,Texas,East,Furniture,Chairs,745.75,7,0.2,151.99
+CA-2016-361912,4/8/2017,4/11/2017,Second Class,ID-96424,Corporate,United States,Chicago,Florida,Central,Furniture,Binders,427.8,3,0,85.21
+CA-2019-762574,4/8/2016,4/15/2016,Second Class,ID-33877,Consumer,United States,Los Angeles,California,East,Furniture,Accessories,329.31,10,0.3,21.56
+CA-2018-296868,7/11/2019,7/18/2019,Same Day,ID-69258,Consumer,United States,Houston,Illinois,Central,Technology,Accessories,126.64,5,0.2,3.54
+CA-2017-367685,11/29/2017,12/6/2017,Same Day,ID-81945,Corporate,United States,New York,New York,Central,Furniture,Binders,432.25,1,0.1,-24.18
+CA-2019-970399,8/15/2016,8/16/2016,First Class,ID-26554,Corporate,United States,Chicago,Florida,South,Technology,Chairs,966.63,9,0.1,51.35
+CA-2017-248592,10/25/2019,10/27/2019,Standard Class,ID-36041,Home Office,United States,Chicago,Illinois,East,Technology,Tables,529.79,9,0.2,49.07
+CA-2017-492662,11/21/2016,11/22/2016,Second Class,ID-93218,Home Office,United States,Phoenix,Texas,East,Technology,Tables,429.78,4,0.2,-27.66
+CA-2019-410899,3/9/2018,3/14/2018,Same Day,ID-72461,Corporate,United States,Chicago,Texas,Central,Furniture,Chairs,258.82,9,0.2,-3.42
+CA-2016-162099,4/20/2018,4/22/2018,Second Class,ID-73036,Consumer,United States,Los Angeles,Florida,East,Technology,Accessories,397.09,4,0.1,83.53
+CA-2016-337298,7/19/2017,7/21/2017,Same Day,ID-26183,Home Office,United States,Phoenix,Texas,East,Office Supplies,Phones,675.52,6,0,104.5
+CA-2018-649706,7/29/2016,8/5/2016,Same Day,ID-40432,Home Office,United States,Houston,New York,West,Technology,Tables,459.82,2,0.2,92
+CA-2016-500033,6/7/2017,6/8/2017,Same Day,ID-65824,Home Office,United States,Los Angeles,Florida,Central,Furniture,Tables,112.02,10,0.2,-0.31
+CA-2019-977353,12/7/2019,12/11/2019,Same Day,ID-17425,Home Office,United States,New York,New York,Central,Office Supplies,Tables,335.54,5,0.2,-17.92
+CA-2016-847734,9/21/2018,9/23/2018,Same Day,ID-39017,Home Office,United States,Houston,New York,West,Technology,Accessories,565.06,10,0.3,56.42
+CA-2019-144146,5/17/2019,5/18/2019,Standard Class,ID-85448,Consumer,United States,New York,Texas,Central,Technology,Tables,427.61,7,0,16.64
+CA-2019-993631,8/1/2018,8/6/2018,Standard Class,ID-62257,Home Office,United States,Houston,California,East,Technology,Phones,33.9,6,0,0.57
+CA-2019-940848,2/28/2016,3/5/2016,Same Day,ID-43228,Corporate,United States,Chicago,New York,East,Office Supplies,Accessories,785.87,6,0.3,98.82
+CA-2018-905947,11/24/2016,11/26/2016,First Class,ID-62601,Corporate,United States,Los Angeles,Florida,West,Office Supplies,Binders,620.24,4,0.2,114.86
+CA-2016-857009,7/4/2016,7/10/2016,Same Day,ID-51015,Home Office,United States,Houston,Texas,South,Furniture,Binders,857.42,8,0.2,23.87
+CA-2019-479021,11/22/2016,11/24/2016,First Class,ID-12087,Consumer,United States,Los Angeles,Illinois,Central,Technology,Tables,303.24,9,0.1,16.15
+CA-2016-308267,7/10/2016,7/11/2016,Same Day,ID-44520,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Phones,922.05,2,0.2,107.23
+CA-2016-439566,4/5/2017,4/9/2017,Standard Class,ID-42231,Home Office,United States,Los Angeles,New York,West,Office Supplies,Phones,834.92,4,0.1,187.9
+CA-2019-779367,3/18/2017,3/20/2017,Standard Class,ID-48901,Consumer,United States,New York,Illinois,South,Office Supplies,Accessories,560.76,10,0.1,32.77
+CA-2019-757724,3/24/2019,3/28/2019,First Class,ID-57706,Corporate,United States,Houston,New York,Central,Furniture,Binders,544.97,2,0.1,14.06
+CA-2017-934202,1/7/2019,1/12/2019,Second Class,ID-22664,Home Office,United States,Houston,Illinois,Central,Furniture,Tables,235.55,6,0.1,18.26
+CA-2016-582595,6/21/2019,6/25/2019,Same Day,ID-87471,Corporate,United States,New York,Texas,West,Technology,Accessories,563.41,1,0.2,40.86
+CA-2017-166874,10/28/2019,10/31/2019,Standard Class,ID-46187,Home Office,United States,Chicago,California,South,Office Supplies,Phones,986.34,4,0.3,16.52
+CA-2018-446589,4/21/2017,4/26/2017,Same Day,ID-28904,Home Office,United States,Phoenix,New York,West,Technology,Chairs,714.99,6,0,150.04
+CA-2016-743668,5/10/2016,5/15/2016,Same Day,ID-31129,Home Office,United States,Los Angeles,Texas,East,Furniture,Chairs,652.91,8,0,21.36
+CA-2016-523158,3/21/2019,3/27/2019,Same Day,ID-63421,Corporate,United States,Houston,Texas,Central,Furniture,Chairs,318.08,3,0.3,56.03
+CA-2019-195142,1/12/2017,1/15/2017,Same Day,ID-36293,Consumer,United States,Chicago,California,Central,Office Supplies,Chairs,528.63,1,0,154.79
+CA-2016-815873,2/3/2018,2/4/2018,Second Class,ID-10226,Home Office,United States,New York,California,Central,Office Supplies,Binders,37.38,10,0.2,7.29
+CA-2017-297637,7/27/2019,8/1/2019,Same Day,ID-33827,Home Office,United States,Los Angeles,New York,West,Technology,Phones,603.72,10,0.1,139.41
+CA-2017-631972,10/31/2016,11/7/2016,Same Day,ID-13976,Home Office,United States,New York,Illinois,West,Office Supplies,Binders,116.7,3,0.1,27.32
+CA-2019-302542,5/20/2019,5/22/2019,First Class,ID-69594,Home Office,United States,Phoenix,Florida,South,Furniture,Tables,74.81,4,0.2,-2.6
+CA-2019-297488,4/7/2018,4/8/2018,First Class,ID-17683,Corporate,United States,Phoenix,California,West,Technology,Binders,912.75,10,0.3,129.55
+CA-2017-396287,10/18/2017,10/20/2017,Same Day,ID-35957,Corporate,United States,Houston,Florida,South,Office Supplies,Chairs,495.56,8,0,14.18
+CA-2019-739278,3/7/2018,3/10/2018,Same Day,ID-47643,Home Office,United States,New York,Illinois,West,Furniture,Chairs,314.05,10,0.1,44.2
+CA-2016-660245,2/27/2016,2/28/2016,First Class,ID-60449,Consumer,United States,Chicago,Illinois,West,Technology,Accessories,741.15,9,0.1,69.04
+CA-2016-324912,7/21/2016,7/25/2016,Second Class,ID-39041,Home Office,United States,Chicago,California,East,Office Supplies,Phones,575.43,10,0,-47.13
+CA-2019-316037,11/12/2019,11/13/2019,First Class,ID-10621,Consumer,United States,Chicago,Texas,South,Furniture,Binders,918.41,7,0,-34.56
+CA-2017-751966,10/1/2019,10/4/2019,Same Day,ID-99180,Home Office,United States,Chicago,Texas,Central,Office Supplies,Chairs,421.73,7,0.3,3.32
+CA-2017-956397,9/26/2018,9/29/2018,Standard Class,ID-92121,Home Office,United States,Houston,California,South,Furniture,Phones,79.82,2,0,-2.91
+CA-2019-169730,1/10/2017,1/15/2017,First Class,ID-31937,Home Office,United States,Chicago,Florida,Central,Technology,Binders,291.86,10,0.2,-13.22
+CA-2016-514089,2/17/2017,2/18/2017,Same Day,ID-36317,Consumer,United States,Phoenix,California,South,Office Supplies,Chairs,120.29,1,0.3,-2.21
+CA-2016-353495,6/11/2018,6/16/2018,First Class,ID-67423,Home Office,United States,Los Angeles,Florida,West,Technology,Tables,769.12,4,0.1,131.49
+CA-2016-696431,1/30/2016,2/1/2016,First Class,ID-42873,Consumer,United States,Chicago,Florida,East,Technology,Chairs,397.4,3,0.2,32.5
+CA-2017-292899,7/8/2019,7/10/2019,First Class,ID-96246,Home Office,United States,Houston,California,South,Furniture,Phones,605.64,5,0.1,-23.25
+CA-2018-159468,8/16/2016,8/22/2016,Standard Class,ID-63729,Home Office,United States,Phoenix,California,East,Technology,Binders,376.67,3,0,65.44
+CA-2016-499731,1/8/2016,1/13/2016,Standard Class,ID-60793,Home Office,United States,New York,Texas,West,Technology,Tables,83.18,8,0.3,0.76
+CA-2019-571514,5/1/2017,5/7/2017,Same Day,ID-90295,Corporate,United States,Chicago,Florida,South,Furniture,Accessories,541.09,6,0.1,-20.57
+CA-2017-507321,6/10/2017,6/12/2017,First Class,ID-12744,Corporate,United States,Chicago,Texas,West,Office Supplies,Accessories,713.58,9,0.1,189.45
+CA-2017-980945,7/7/2019,7/10/2019,Second Class,ID-63188,Corporate,United States,Houston,Florida,South,Office Supplies,Accessories,468.88,6,0.2,62.32
+CA-2017-858443,12/21/2018,12/23/2018,Second Class,ID-38437,Home Office,United States,Los Angeles,Illinois,East,Technology,Tables,369.78,8,0.3,12.92
+CA-2018-323885,3/15/2018,3/17/2018,Same Day,ID-24240,Home Office,United States,Houston,New York,South,Furniture,Phones,225.01,9,0.1,33.18
+CA-2019-289074,6/26/2018,6/27/2018,Second Class,ID-60589,Home Office,United States,Los Angeles,New York,East,Technology,Accessories,579.32,4,0.1,33.64
+CA-2019-357633,9/24/2016,10/1/2016,Same Day,ID-51446,Home Office,United States,Phoenix,Illinois,West,Technology,Chairs,789.09,2,0,-76.17
+CA-2016-447611,7/3/2016,7/6/2016,First Class,ID-36608,Home Office,United States,Los Angeles,Texas,Central,Furniture,Binders,627,6,0.3,39.52
+CA-2017-403815,9/13/2017,9/14/2017,Second Class,ID-29925,Consumer,United States,Houston,California,South,Furniture,Tables,556.8,8,0.2,78.39
+CA-2017-218867,9/21/2019,9/23/2019,Same Day,ID-22723,Consumer,United States,Los Angeles,Florida,South,Office Supplies,Accessories,178.75,1,0.2,38.95
+CA-2017-569063,2/10/2016,2/14/2016,First Class,ID-54535,Consumer,United States,Chicago,California,East,Furniture,Tables,307.1,7,0.1,-15.37
+CA-2017-765030,10/18/2017,10/21/2017,Standard Class,ID-56492,Home Office,United States,Houston,California,South,Furniture,Binders,852.74,4,0.2,199.76
+CA-2016-613392,10/14/2017,10/16/2017,Standard Class,ID-95118,Consumer,United States,Chicago,New York,South,Office Supplies,Binders,50.05,8,0,1.66
+CA-2016-236996,7/2/2019,7/3/2019,Standard Class,ID-49676,Corporate,United States,Los Angeles,Florida,South,Office Supplies,Chairs,698.34,5,0.3,16.74
+CA-2019-526974,12/19/2019,12/22/2019,Second Class,ID-55382,Home Office,United States,Chicago,Illinois,East,Office Supplies,Binders,274.01,8,0,60.88
+CA-2018-633506,8/20/2016,8/21/2016,Second Class,ID-24031,Consumer,United States,New York,Texas,Central,Furniture,Phones,576.19,4,0,141.44
+CA-2016-858232,1/28/2016,2/3/2016,First Class,ID-90931,Consumer,United States,Los Angeles,Illinois,South,Technology,Binders,788.27,2,0,-61.12
+CA-2017-309213,6/15/2016,6/17/2016,Standard Class,ID-22004,Consumer,United States,Houston,Texas,East,Furniture,Chairs,393.03,9,0.1,31.98
+CA-2017-842640,10/11/2018,10/16/2018,Second Class,ID-71500,Corporate,United States,Phoenix,California,South,Furniture,Tables,16.25,3,0.1,0.08
+CA-2017-833968,9/10/2016,9/16/2016,Standard Class,ID-34667,Consumer,United States,Chicago,Texas,East,Office Supplies,Tables,303.75,7,0.2,-3.09
+CA-2018-964517,12/7/2017,12/13/2017,Second Class,ID-79540,Consumer,United States,Chicago,New York,East,Furniture,Chairs,72.16,6,0,10.68
+CA-2019-183835,10/12/2019,10/19/2019,Same Day,ID-11572,Home Office,United States,New York,New York,Central,Technology,Tables,681.41,2,0.2,104.04
+CA-2018-572684,1/3/2018,1/9/2018,Same Day,ID-58554,Corporate,United States,Chicago,Florida,Central,Technology,Phones,235.83,3,0,41.59
+CA-2019-587529,8/3/2018,8/6/2018,Same Day,ID-70768,Corporate,United States,Houston,Texas,East,Technology,Accessories,425.4,1,0.1,82.43
+CA-2019-762902,11/1/2016,11/5/2016,First Class,ID-11828,Corporate,United States,Los Angeles,Texas,East,Furniture,Chairs,26.23,8,0.1,0.2
+CA-2017-122733,10/15/2018,10/19/2018,Second Class,ID-49783,Home Office,United States,Chicago,Texas,East,Office Supplies,Tables,726.49,7,0.3,141.85
+CA-2017-611015,9/25/2019,9/26/2019,First Class,ID-23895,Consumer,United States,Chicago,Florida,Central,Furniture,Phones,523.58,8,0.1,31.35
+CA-2016-422969,7/17/2019,7/19/2019,First Class,ID-92635,Corporate,United States,Phoenix,Florida,West,Technology,Phones,534.34,6,0.2,95.26
+CA-2017-487519,3/3/2019,3/7/2019,Standard Class,ID-12321,Corporate,United States,Chicago,Florida,East,Furniture,Binders,691.4,6,0.3,103.92
+CA-2018-705258,11/9/2017,11/15/2017,Second Class,ID-26663,Corporate,United States,Phoenix,Texas,East,Furniture,Accessories,567.67,1,0.2,47.4
+CA-2016-502803,10/30/2016,11/4/2016,First Class,ID-20657,Home Office,United States,Houston,Florida,Central,Furniture,Accessories,395.68,4,0.2,58.49
+CA-2018-988954,4/30/2016,5/4/2016,Second Class,ID-39272,Home Office,United States,New York,New York,Central,Technology,Accessories,566.26,5,0.2,42.53
+CA-2018-734148,1/3/2019,1/5/2019,Second Class,ID-88326,Home Office,United States,New York,New York,West,Technology,Phones,528.27,9,0.2,-0.3
+CA-2019-543538,12/5/2019,12/12/2019,Standard Class,ID-49082,Corporate,United States,Los Angeles,Texas,Central,Furniture,Chairs,655.12,7,0,31.09
+CA-2017-568383,7/5/2019,7/9/2019,Second Class,ID-87836,Corporate,United States,Chicago,California,Central,Office Supplies,Binders,205.8,10,0.3,2
+CA-2017-438484,2/4/2016,2/5/2016,Standard Class,ID-52799,Home Office,United States,Houston,New York,East,Office Supplies,Accessories,554.63,7,0.2,25.83
+CA-2018-742863,3/11/2016,3/17/2016,First Class,ID-52469,Home Office,United States,Phoenix,California,West,Technology,Phones,501.71,2,0.1,-17.78
+CA-2017-848529,4/26/2017,4/27/2017,First Class,ID-56803,Corporate,United States,New York,Florida,Central,Furniture,Accessories,406.55,1,0.3,44.6
+CA-2019-828326,11/13/2016,11/18/2016,Standard Class,ID-37165,Corporate,United States,Los Angeles,California,Central,Furniture,Phones,65.95,9,0,-5.21
+CA-2017-601946,3/27/2016,3/28/2016,Second Class,ID-40495,Consumer,United States,Los Angeles,Illinois,Central,Office Supplies,Accessories,758.4,7,0,78.95
+CA-2018-616137,2/18/2016,2/24/2016,Same Day,ID-82093,Consumer,United States,New York,Texas,West,Furniture,Phones,586.91,1,0.2,84.86
+CA-2018-633881,12/2/2016,12/6/2016,Second Class,ID-29956,Home Office,United States,New York,Illinois,Central,Office Supplies,Tables,380.56,7,0.1,80.12
+CA-2018-450733,2/4/2017,2/7/2017,First Class,ID-61463,Consumer,United States,Chicago,Florida,West,Office Supplies,Tables,968.06,9,0.3,-12.31
+CA-2016-143683,3/4/2018,3/11/2018,Standard Class,ID-36946,Consumer,United States,Phoenix,New York,East,Technology,Binders,367.33,1,0.1,41.9
+CA-2018-327337,11/12/2018,11/13/2018,First Class,ID-11620,Consumer,United States,Los Angeles,New York,East,Office Supplies,Accessories,722.77,8,0.3,71.2
+CA-2017-615566,9/10/2018,9/15/2018,First Class,ID-97428,Consumer,United States,New York,Illinois,West,Furniture,Chairs,623.08,1,0.2,135.61
+CA-2018-566679,2/20/2018,2/26/2018,Second Class,ID-22744,Consumer,United States,Chicago,Texas,East,Office Supplies,Binders,85.34,7,0,1.62
+CA-2016-225909,9/10/2017,9/12/2017,First Class,ID-69890,Consumer,United States,New York,California,South,Furniture,Chairs,121.46,4,0.3,21.08
+CA-2018-383185,2/16/2016,2/22/2016,Same Day,ID-18294,Home Office,United States,Los Angeles,Texas,West,Office Supplies,Accessories,39.6,8,0.3,6.44
