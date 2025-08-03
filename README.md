@@ -17,3 +17,13 @@ This project explores a fictional Superstore’s sales and profit data using R. 
 - `superstore_expanded.csv` – dataset (1,000 rows)
 - `superstore_analysis.R` – main script
 - `README.md` – project summary
+
+
+
+
+
+## 📈 Daily Sales Plot
+![Daily Sales](daily_sales.png)
+
+## 📊 Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales_trend.png)
